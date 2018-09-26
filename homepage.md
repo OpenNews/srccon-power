@@ -13,20 +13,29 @@ This event builds on [SRCCON 2018](https://2018.srccon.org/schedule/), which inc
 
 Participants will leave with a deepened understanding of power at a technological, organizational, and societal level, as well as strategies for how we can strengthen our collective work to make journalism more equitable.
 
+## Key Dates for Your Calendar
+
+* **October 8:** Call for participation form opens
+* **October 17:** Call for participation form closes
+
+On October 8, we'll open a form with a few questions about how you'd like to participate in SRCCON:POWER. It's *the place* to tell us that you'd like to attend, faciliate a session, apply for a travel scholarship, or participate in some other way. The form will include a few questions about your work and why you'd like to attend SRCCON:POWER. We'll use those answers to shape the event program, and select who to invite to attend and purchase a ticket.
+
+We know this might be an exceptionally busy time of year, between the upcoming midterm elections and the unrelenting news cycle, so we're aiming to make the CFP process as straightforward as possible. But if you have any particular scheduling needs, [please just let us know](mailto:srccon@opennews.org). We'll post a bunch more details when we publish the form.
+
 ## When & where
 
 December 13-14 in Philadelphia, at the [Science History Museum](https://www.sciencehistory.org) (formerly the Chemical Heritage Foundation, home of SRCCON:WORK and SRCCON 2014).
 
 ## Who participates and how?
 
-This is an event for anyone interested in better understanding how power operates at the intersection of journalism and tech. We&rsquo;re looking for folks with insights—gathered through research, life experience, or otherwise—in how power structures influence the work and efficacy of journalism. Participants will have the opportunity to spend two days with colleagues who are interested in increasing equity and bringing transparency to the systems of power that inform journalism and how we approach this work.
+This is an event for anyone interested in better understanding how power operates at the intersection of journalism and tech. We're looking for folks with insights—gathered through research, life experience, or otherwise—in how power structures influence the work and efficacy of journalism. Participants will have the opportunity to spend two days with colleagues who are interested in increasing equity and bringing transparency to the systems of power that inform journalism and how we approach this work.
 
-If you&rsquo;ve been to SRCCON before, have never been, or have never even heard of SRCCON, we&rsquo;re excited for you to participate! We will invite folks to attend the event through a call for participation application form, which will be where participants can pitch sessions, apply for need-based scholarships, and suggest any other ways they&rsquo;d like to participate. If you&rsquo;re interested in attending but need to put in a request to attend with your organization right away, just [drop us a line](mailto:srccon@opennews.org) and we&rsquo;ll see how we can help. Once we launch our application form, we&rsquo;ll let you know when you can expect a response from us, aiming to reply to folks as quickly as we can.
+If you've been to SRCCON before, have never been, or have never even heard of SRCCON, we're excited for you to participate! We will invite folks to attend the event through a call for participation application form. The form will be open October 8 through October 17. Once we launch our application form, we'll let you know when you can expect a response from us, aiming to reply to folks as quickly as we can.
 
 ## How much does it cost?
 
-Tickets will cost $225, plus ticketing fees.
+Tickets will cost $225, plus ticketing fees. We'll also offer a limited number of need-based travel scholarships, with a $500 stipend for travel costs and a free ticket. The application for the scholarship will be part of the call for participation form.
 
 ## What&rsquo;s next?
 
-We&rsquo;ll announce the call for participation application dates by the end of September, as we plan out the full shape and schedule for the event. Find out about upcoming deadlines by [joining our mailing list](http://eepurl.com/czSVTL). If you have a specific question, feel free to [reach out](mailto:srccon@opennews.org).
+We'll launch the call for participation form on October 8, and tell you a bunch more about what to expect then! Find out about upcoming deadlines by [joining our mailing list](http://eepurl.com/czSVTL). If you have a specific question, feel free to [reach out](mailto:srccon@opennews.org).
