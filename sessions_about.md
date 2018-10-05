@@ -10,7 +10,7 @@ Our [call for participation form](/participation/form) is open through October 1
 
 # About Sessions at SRCCON:POWER
 
-SRCCON:POWER is built around two days of talks, peer-led conversations, and hands-on workshops. The community members who step up to participate in and facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps everyone head home with new ideas. If you'd like to facilitate a session at SRCCON:POWER, we have [a Proposal Guide written just for you](/sessions/proposal-guide)!
+SRCCON:POWER is built around two days of talks, peer-led conversations, and hands-on workshops. The community members who step up to participate in and facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps everyone head home with new ideas.
 
 The sessions on our schedule are proposed and led by community members who want to lead conversations or develop new resources to share. Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too.
 
