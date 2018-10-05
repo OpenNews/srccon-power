@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/index.html
 ---
 
-Everyone at SRCCON:POWER contributes to making it happen. Our [call for participation form](/participation/form) is now open with questions about attending, pitching a session, and applying for a scholarship. We'll send out invitations to participate by the end of April.
+Everyone at SRCCON:POWER contributes to making it happen. Our [call for participation form](/participation/form) is now open with questions about attending, pitching a session, and applying for a scholarship.
 
 # Participation at SRCCON
 
@@ -14,7 +14,7 @@ SRCCON:POWER is a hands-on conference, which means that everyone who attends act
 
 We keep the size of SRCCON:POWER intentionally small, at about 125 participants. This size means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON:POWER. Our call for participation form will help us understand who would like to take part and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The form is open until 11:59pm ET on October 17. After that, we will review entries and notify everyone by the end of October. If invited to attend, you will have the chance to purchase a ticket for $225, plus fees. 
+The form is open until 11:59pm ET on October 17. After that, we will review entries and notify everyone. If invited to attend, you will have the chance to purchase a ticket for $225, plus fees. 
 
 ## Not Just Attendees, But Participants
 

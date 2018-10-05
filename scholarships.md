@@ -22,7 +22,7 @@ A ticket to SRCCON:POWER and $500 for you to use toward the cost of travel to th
 Select the "Would you like to be considered for a SRCCON:POWER scholarship?" option on the application [call for participation form](/participation/form). A few scholarship-specific questions will pop onto the form.
 
 ## When Notifications Go Out
-Notifications for scholarships will go out alongisde other notifications as part of the call for participation. Everyone will hear back by October 31.
+Notifications for scholarships will go out alongisde other notifications as part of the call for participation.
 
 ## What Happens After SRCCON:POWER
 You tell us how it went! We&rsquo;ll send you a short followup survey and will be excited to check out any blog posts or code repos that come out of your participation at SRCCON:POWER.
