@@ -4,6 +4,8 @@ section: sponsors
 permalink: /sponsors/index.html
 ---
 
+# Sponsor SRCCON:POWER 
+
 SRCCON:POWER is a small conference with a program that digs deeply into how power animates our work and decisionmaking at the intersection of journalism and technology. It builds on the collaborative, peer-driven conference <a href="https://srccon.org">SRCCON</a>, where over five years we have brought hundreds of members of the news-code community together for hands-on sessions exploring the cultural and technical ideas that push journalism forward. Our events attract the best newsroom developers, designers, and data analysts for two days of thinking, working, and building together.
 
 Sponsors help us make SRCCON:POWER unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON.
