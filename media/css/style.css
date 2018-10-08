@@ -262,7 +262,7 @@ footer #footer-nav {
     margin-bottom: 1em;
     font-size: .6em;
 }
-footer ul {
+footer ul, footer p {
     margin: 0 0 2em;
     padding: 0;
 }
