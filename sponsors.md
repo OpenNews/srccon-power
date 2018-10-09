@@ -42,12 +42,13 @@ Accessibility Sponsors may receive:
 * Logo on page(s) that correspond with your accessibility sponsorship
 * Logo on sponsorship signage at event
 
-## Lunch or Snack Sponsors
+## Meal or Snack Sponsors
 
-At our events, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants lunch and snacks. Help get people fed by becoming a Lunch or Snack Sponsor. We have two sponsorships available:
+At our events, we want people thinking about the amazing sessions and community, not where their next meal is coming from, so we feed all our participants lunch and snacks. Help get people fed by becoming a Meal or Snack Sponsor. We have two sponsorships available:
 
-* Lunch Sponsor
-* Snack Sponsor
+* Breakfast Sponsor
+* Lunch Sponsor < --- SOLD OUT
+* Snack Sponsor < --- SOLD OUT
 
 Lunch or Snack Sponsors may receive:
 
