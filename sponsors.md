@@ -85,7 +85,7 @@ Want to support SRCCON:POWER on a budget? Our Supporting Sponsorship level lets 
 
 We also welcome support from individuals and smaller organizations! Opportunities include:
 
-* <a href="https://opennews.networkforgood.com">Making a donation to OpenNews</a>. As a nonprofit organization, donations help sustain our work. If you'd like to support our work organizing SRCCON:POWER, providing scholarships, and the rest of our programs, you can <a href"https://opennews.networkforgood.com">make a contribution online</a>.
+* <a href="https://opennews.networkforgood.com">Making a donation to OpenNews</a>. As a nonprofit organization, donations help sustain our work. If you'd like to support our work organizing SRCCON:POWER, providing scholarships, and the rest of our programs, you can <a href="https://opennews.networkforgood.com">make a contribution online</a>.
 * Hosting a dinner table. The first evening of SRCCON:POWER, we organize small group dinners (about 8-10 people) at restuarants around the city. Any SRCCON:POWER participant can host a dinner and sponsor a table. <a href="mailto:erika@opennews.org">Let us know</a> if you&rsquo;d like to host and we&rsquo;ll share more details.
 
 If you would like to sponsor SRCCON:POWER with one of the above packages, or would like to talk about a custom sponsorship, <a href="mailto:erika@opennews.org">please send us a note</a>.
