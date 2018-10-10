@@ -34,7 +34,7 @@ Effective SRCCON:POWER facilitation is about effort and preparation more than ex
 * actively seek to run balanced, inclusive conversations, and
 * make a few simple backup plans in case a session gets a larger or smaller audience than expected.
 
-If that sounds like a lot of effort…it is! But it also means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they&rsquo;re willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you&rsquo;d like to work with someone else. If you&rsquo;re thinking about pitching a session for SRCCON:POWER, [check out our Proposal Guide](/sessions/proposal-guide). We&rsquo;d love to hear from you!
+If that sounds like a lot of effort…it is! But it also means that people who are brand-new to the community—or to a topic—can make excellent facilitators if they&rsquo;re willing to put in a little prep time. We provide group and one-on-one support to help facilitators prepare for their sessions, and we can help match you with a co-facilitator if you&rsquo;d like to work with someone else. If you&rsquo;re thinking about pitching a session for SRCCON:POWER, [we&rsquo;d love to hear from you](/participation/form)!
 
 ## Sessions From Previous SRCCONs
 
