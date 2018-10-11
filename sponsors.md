@@ -1,7 +1,7 @@
 ---
 layout: layout
 section: sponsors
-permalink: /sponsors/index.html
+permalink: /sponsors/
 ---
 
 # Sponsor SRCCON:POWER 
