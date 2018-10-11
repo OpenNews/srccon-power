@@ -1,7 +1,7 @@
 ---
 layout: layout
 section: documentation
-permalink: /our-resources/index.html
+permalink: /our-resources/
 ---
 
 # How We Build SRCCON Events

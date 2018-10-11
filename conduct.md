@@ -3,7 +3,7 @@ layout: layout
 section: conduct
 photocredit: Dvortygirl
 photocredit_url: https://www.flickr.com/photos/dvortygirl/3982230988
-permalink: /conduct/index.html
+permalink: /conduct/
 ---
 
 ## Code of Conduct
