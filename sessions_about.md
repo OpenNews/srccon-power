@@ -14,7 +14,7 @@ SRCCON:POWER is built around two days of talks, peer-led conversations, and hand
 
 Our program for SRCCON 2018 will investigate how power operates in our newsrooms, in our relationships with communities, and in the algorithms and technologies that are reshaping our work. Through sessions, we will work together to understand the power and responsibility we have in using technology to inform and engage.
 
-The sessions on our schedule are proposed and led by community members who want to lead conversations or develop new resources to share. Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too.
+The sessions on our schedule are proposed and led by community members who want to lead conversations or develop new resources to share. Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too. If you have a session idea in mind, we'd love to have you check out our [Proposal FAQ](/sessions/proposal-faq) and [share it with us](/participation/form)!
 
 ## How Do Collaborative Sessions Work?
 
