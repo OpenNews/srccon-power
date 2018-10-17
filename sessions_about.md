@@ -6,7 +6,7 @@ photocredit_url: http://www.westraco.com/
 permalink: /sessions/about/
 ---
 
-Our [call for participation form](/participation/form) is open through October 17. We&rsquo;re excited to hear about your session ideas!
+Our [call for participation form](/participation/form) is open! Share your session ideas through October 26, and we&rsquo;ll keep the form for attendees open as long as we can.
 
 # About Sessions at SRCCON:POWER
 
