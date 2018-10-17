@@ -7,22 +7,20 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-Our call for participation is open! We’ll be accepting proposals through Wednesday, October 17, at 11:59pm ET.
-
-Our [call for participation form](/participation/form) includes questions to tell us about all the ways you might want to participate at SRCCON:POWER, including as an attendee or a session facilitator. We will review entries and notify everyone by the end of October. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225 plus fees.
+Our [call for participation](/participation/form) is open! The form lets you tell us about all the ways you might want to participate at SRCCON:POWER, including as an attendee or a session facilitator. We will review entries and notify everyone by the end of October. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225 plus fees.
 
 ## Key Dates for Your Calendar
 
-* **October 8:** Call for participation form opens
-* **October 17:** Call for participation form closes
+* **October 26:** deadline for session proposals and scholarship applications
+* **By October 31:** if we&rsquo;ve heard from you, you&rsquo;ll hear from us
 
-Curious about how it all works? Learn more about [sessions at SRCCON:POWER](/sessions) and our [call for participation](/participation). There won&rsquo;t be a separate ticket lottery or sale date, so if you want to come to SRCCON:POWER, our call for participation will be how to let us know! 
+We know this is a super busy time of year, but we want to help you participate in the ways that work well for you. We need to start finalizing our program by the end of October, so we have a set deadline for session proposals, but will keep applications open for attendees as long as we can. If you need any support on session ideas, please [reach out](mailto:srccon@opennews.org)! And if you&rsquo;re interested in attending, we&rsquo;ll review applications as they come in so we encourage you to fill out the CFP form as soon as you can.
 
-We know this might be an exceptionally busy time of year, between the upcoming midterm elections and the unrelenting news cycle, so we&rsquo;re aiming to make the CFP process as straightforward as possible. But if you have any particular scheduling needs, [please just let us know](mailto:srccon@opennews.org). 
+Curious about how all this works? Learn more about [sessions](/sessions) and [participation](/participation) at SRCCON:POWER.
 
 ## When & Where
 
-December 13 & 14 in Philadelphia, at the [Science History Museum](https://www.sciencehistory.org) (formerly the Chemical Heritage Foundation, home of [SRCCON:WORK](https://work.srccon.org) and [SRCCON 2014](https://2014.srccon.org)).
+December 13 & 14 in Philadelphia, at the [Science History Institute](https://www.sciencehistory.org) (formerly the Chemical Heritage Foundation, home of [SRCCON:WORK](https://work.srccon.org) and [SRCCON 2014](https://2014.srccon.org)).
 
 ## About SRCCON:POWER
 
@@ -36,7 +34,7 @@ Participants will leave with a deepened understanding of power at a technologica
 
 This is an event for anyone interested in better understanding how power operates at the intersection of journalism and tech. We&rsquo;re looking for folks with insights—gathered through research, life experience, or otherwise—in how power structures influence the work and efficacy of journalism. Participants will have the opportunity to spend two days with colleagues who are interested in increasing equity and bringing transparency to the systems of power that inform journalism and how we approach this work.
 
-If you&rsquo;ve been to SRCCON before, have never been, or have never even heard of SRCCON, we&rsquo;re excited for you to participate! We will invite folks to attend the event through a [call for participation application form](/participation/form). The form is open October 8-17.
+If you&rsquo;ve been to SRCCON before, have never been, or have never even heard of SRCCON, we&rsquo;re excited for you to participate! We will invite folks to attend the event through a [call for participation application form](/participation/form). The deadline for session proposals and scholarship applications is October 26, and we&rsquo;ll keep the form open for attendees as long as we can.
 
 ## How much does it cost?
 

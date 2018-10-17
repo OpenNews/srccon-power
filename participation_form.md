@@ -16,7 +16,7 @@ You can read a little more about [how we&rsquo;re thinking about participation](
 * OpenNews staff will review proposals, and may work with a small group of community volunteers to help with session selection.
 * If there are any additional concerns you have or discretion you'd like us to take, you can tell us anything right when you fill out the call for participation.
 
-Please feel free to [reach out to us](mailto:srccon@opennews.org) with any questions, or if you&rsquo;re all set, the participation form below is open through October 17!
+Please feel free to [reach out to us](mailto:srccon@opennews.org) with any questions, or if you&rsquo;re all set, the participation form is below! The deadline for session proposals and scholarship applications is October 26, and we&rsquo;ll keep the form open for attendees as long as we can.
 
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script><link href="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.css" rel="stylesheet" /><script src="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.js"></script>
 <form data-formrenderer>This form requires JavaScript to complete.</form>

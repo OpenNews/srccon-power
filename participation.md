@@ -30,7 +30,7 @@ We&rsquo;ll have a few questions for you about what you&rsquo;d like to bring to
 
 We keep the size of SRCCON:POWER intentionally small, at about 125 participants. This size means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON:POWER. Our call for participation form will help us understand who would like to take part and what you want to get out of it. With those responses, we&rsquo;ll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The form is open until 11:59pm ET on October 17. We will review entries after that, and everyone who filled out the call for participation form will hear back from us by the end of October. If invited to attend, you will have the chance to purchase a ticket for $225 plus fees. 
+The deadline for session proposals and scholarship applications is October 26, and we'll keep the form open for attendees as long as we can. Everyone who filled out the call for participation form will hear back from us by the end of October. If invited to attend, you will have the chance to purchase a ticket for $225 plus fees.
 
 ## Facilitating Sessions
 
