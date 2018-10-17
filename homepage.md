@@ -20,7 +20,7 @@ Curious about how all this works? Learn more about [sessions](/sessions) and [pa
 
 ## When & Where
 
-December 13 & 14 in Philadelphia, at the [Science History Museum](https://www.sciencehistory.org) (formerly the Chemical Heritage Foundation, home of [SRCCON:WORK](https://work.srccon.org) and [SRCCON 2014](https://2014.srccon.org)).
+December 13 & 14 in Philadelphia, at the [Science History Institute](https://www.sciencehistory.org) (formerly the Chemical Heritage Foundation, home of [SRCCON:WORK](https://work.srccon.org) and [SRCCON 2014](https://2014.srccon.org)).
 
 ## About SRCCON:POWER
 
