@@ -6,11 +6,9 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/
 ---
 
-Everyone at SRCCON:POWER contributes to making it happen. Our call for participation form is now open with questions about attending, pitching a session, and applying for a scholarship.
-
 # Participation at SRCCON:POWER
 
-SRCCON:POWER is a hands-on conference, which means that everyone who attends actively participates throughout the event. We [are excited to hear about](/participation/form) what you&rsquo;d like to share, whether that be as a facilitator or attendee, and what you hope to take back home with you. 
+SRCCON:POWER is a hands-on conference, which means that everyone who attends actively participates throughout the event. We [are excited to hear about](/participation/form) what you&rsquo;d like to share and what you hope to take back home with you. 
 
 Participation at SRCCON:POWER is about building on work that attendees are already doing to shift and understand power dynamics. It&rsquo;s about taking time to support one another and figure out how we keep ourselves and our work moving into 2019 and beyond.
 
@@ -18,7 +16,7 @@ We&rsquo;re grateful to have two days to spend together to support one another i
 
 Power is a vast topic, and luckily many people in this community understand that we have a responsibility to understand power dynamics and thoughtfully wield the power we have as journalists. At SRCCON:POWER, we have space to focus on how we can work collectively to shift power dynamics at the intersection of journalism and tech. We want to build plans, devise strategies, and use this time to further strengthen work that's already happening to increase equity and inclusion in journalism.
 
-*You* probably are already a part of this work, whether it be through unionizing your newsroom, participating in journalism groups, organizing your own spaces for support like the JOC Slack and Lonely Coders Club, or fielding questions from colleagues. We want to [hear about all of that](/participation/form) and any projects or session ideas you&rsquo;d like to bring to SRCCON:POWER. Let&rsquo;s see what we can do with two days together!
+*You* probably are already a part of this work, whether it be through unionizing your newsroom, participating in journalism groups, organizing your own spaces for support like the JOC Slack and Lonely Coders Club, or fielding questions from colleagues. We want to [hear about all of that](/participation/form) and any projects or ideas you&rsquo;d like to bring to SRCCON:POWER. Let&rsquo;s see what we can do with two days together!
 
 ## Not Just Attendees, But Participants
 
@@ -30,11 +28,11 @@ We&rsquo;ll have a few questions for you about what you&rsquo;d like to bring to
 
 We keep the size of SRCCON:POWER intentionally small, at about 125 participants. This size means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON:POWER. Our call for participation form will help us understand who would like to take part and what you want to get out of it. With those responses, we&rsquo;ll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The deadline for session proposals and scholarship applications is October 26, and we'll keep the form open for attendees as long as we can. Everyone who filled out the call for participation form will hear back from us by the end of October. If invited to attend, you will have the chance to purchase a ticket for $225 plus fees.
+The deadline for session proposals and scholarship applications is past, but we'll keep the form open for attendees as long as we can. Everyone who filled out the call for participation form will hear back from us by the end of October. If invited to attend, you will have the chance to purchase a ticket for $225 plus fees.
 
 ## Facilitating Sessions
 
-At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—consider becoming a facilitator this year by [learning more about sessions](/sessions/about). You will be able to tell us all about your session idea on the [call for participation form](/participation/form).
+At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees.
 
 ## Welcome, First-timers
 

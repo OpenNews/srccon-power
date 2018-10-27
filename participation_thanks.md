@@ -8,12 +8,8 @@ permalink: /participation/thanks/
 
 # Thank You for Answering the SRCCON:POWER Call for Participation!
 
-If you proposed a session idea, we&rsquo;ll be reading it through soon, and if you let us know about some other way you&rsquo;d like to participate at SRCCON:POWER or you asked about scholarships, we&rsquo;ll follow up with you! Everyone who filled out the call for participation form will hear back from us by the end of October.
+We're so excited that you want to participate at SRCCON:POWER, and we&rsquo;ll follow up with you soon! By the end of October, if we've heard from you, you'll hear back from us—and we'll continue to review attendee applications as they come in after that.
 
-Do you have a colleague who would be interested in or benefit from joining us in Philadelphia on December 13 & 14? Please ask them to apply! The deadline for session proposals and scholarship applications is October 26, and we&rsquo;ll keep the form open for attendees as long as we can.
+Do you have a colleague who would be interested in or benefit from joining us in Philadelphia on December 13 & 14? Please ask them to apply! The deadline for session proposals and scholarship applications is past, but we&rsquo;ll keep the form open for attendees as long as we can.
 
 We hugely appreciate help reaching beyond our own networks. Personal recommendations have been a major part of what helps new folks find out about our events and bring more people into the community.
-
-**Reminder to session proposers:** Because SRCCON:POWER is a collaborative, peer-to-peer event, we ask that all participants buy a ticket. We&rsquo;ll reserve a ticket for purchase by facilitators of accepted sessions.
-
-You can send any additional session proposals to us at [srccon@opennews.org](mailto:srccon@opennews.org)—no need to fill out the form a second time.
