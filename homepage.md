@@ -7,14 +7,7 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-Our [call for participation](/participation/form) is open! The deadline for session proposals is past, but the form lets you tell us about many other ways you might want to participate at SRCCON:POWER. We will review entries and begin notifying everyone by the end of October. If invited to attend or facilitate a session, you will have the chance to purchase a ticket for $225 plus fees.
-
-## Key Dates for Your Calendar
-
-* **October 26:** deadline for session proposals and scholarship applications
-* **By October 31:** if we&rsquo;ve heard from you, you&rsquo;ll hear from us
-
-We know this is a super busy time of year, but we want to help you participate in the ways that work well for you. We'll keep applications open for attendees as long as we can, and review applications as they come in. If you're interested in attending, we encourage you to fill out the CFP form as soon as you can.
+Thank you to everyone who proposed a session idea for SRCCON:POWER! We're reviewing all proposals right now, and you'll hear back from us soon. If you're interested in joining us in Philadelphia, the  [attendee form](/participation/form) is still open!
 
 Curious about how all this works? Learn more about [sessions](/sessions) and [participation](/participation) at SRCCON:POWER.
 
