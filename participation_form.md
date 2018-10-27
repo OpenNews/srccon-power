@@ -10,7 +10,7 @@ permalink: /participation/form/
 
 We can&rsquo;t wait to hear how you&rsquo;d like to participate at SRCCON:POWER! The deadline for session proposals and scholarship applications is past, but we'll keep this form open for attendees as long as we can.
 
-You can read a little more about [how we&rsquo;re thinking about participation](/participation) for this event, and how we&rsquo;re thinking about sessions in [our Proposal FAQ](/sessions/proposal-faq). Please feel free to [reach out to us](mailto:srccon@opennews.org) with any questions, or if you&rsquo;re all set, the participation form is below!
+You can read a little more about [how we&rsquo;re thinking about participation](/participation) for this event, and please feel free to [reach out to us](mailto:srccon@opennews.org) with any questions. If you&rsquo;re all set, the participation form is below!
 
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script><link href="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.css" rel="stylesheet" /><script src="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.js"></script>
 <form data-formrenderer>This form requires JavaScript to complete.</form>
