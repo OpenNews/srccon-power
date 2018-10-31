@@ -16,4 +16,4 @@ Two of our own staff members have had their young children happily in KiddieCorp
 
 ## Logistics
 
-Childcare will take place at the conference hotel, which is a few blocks away from the conference venue. Registration will open soon. There&rsquo;s an option on the call for participation form to tell us you&rsquo;d like more information when registration opens, or you can [email us](mailto:srccon@opennews.org) anytime. You can also [learn more about KiddieCorp&rsquo;s staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
+Childcare will take place at the conference hotel, which is a few blocks away from the conference venue. Registration will open soon. There&rsquo;s an option on the call for participation form to tell us you&rsquo;d like more information when registration opens, or you can [email us](mailto:srccon@opennews.org) anytime. You can [register now](https://www.jotform.com/KiddieCorp/srcconwinterkids) and [learn more about KiddieCorp&rsquo;s staffing](https://www.kiddiecorp.com/staffselect.html) and [security procedures](https://www.kiddiecorp.com/security.html).
