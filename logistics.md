@@ -31,7 +31,7 @@ We offer free childcare throughout the full SRCCON:POWER schedule (including Thu
 
 ## Transcription
 
-Once again, we'll have live transcription for SRCCON:WORK from our friends at White Coat Captioning. As we get closer to the event, we'll have more details about what role transcription will play in this event. 
+Once again, we'll have live transcription for SRCCON:POWER from our friends at White Coat Captioning. As we get closer to the event, we'll have more details about what role transcription will play in this event. 
 
 ## Coming soon
 
