@@ -86,7 +86,7 @@ header #header-image { /* default to Philly skyline homepage background */
     background-position: 0 0;
 }
 .logistics #header-image {
-    background-image: url(/media/img/backgrounds/philly.jpg);
+    background-image: url(/media/img/backgrounds/logistics.jpg);
     background-position: 0 0;
 }
 .program #header-image {
