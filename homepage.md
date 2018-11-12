@@ -15,6 +15,8 @@ Curious about how all this works? Learn more about [sessions](/sessions/about) a
 
 December 13 & 14 in Philadelphia, at the [Science History Institute](https://www.sciencehistory.org) (formerly the Chemical Heritage Foundation, home of [SRCCON:WORK](https://work.srccon.org) and [SRCCON 2014](https://2014.srccon.org)).
 
+You'll find information about our conference hotel block and more on [the SRCCON:POWER logistics page](/logistics).
+
 ## About SRCCON:POWER
 
 SRCCON:POWER is a two-day conference on December 13 & 14 to investigate how power operates in our newsrooms, in our relationships with communities, and in the algorithms and technologies that are reshaping our work. Through talks and hands-on sessions, 125 participants will work together to understand the power and responsibility we have in using technology to inform and engage.
