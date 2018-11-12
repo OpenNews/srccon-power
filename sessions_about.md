@@ -20,7 +20,7 @@ There are a lot of ways to think about the SRCCON:POWER program, but here&rsquo;
 
 We want to make this a [genuinely participatory event](/participation), and it&rsquo;s hard to be part of a conversation or work together in a session that&rsquo;s mostly lecture. So we look for sessions that include real interactivity, and we love creative formats that support learning. Outstanding sessions might include design exercises, art and games, small-group work, role playing, even field trips—and we&rsquo;re always interested in new ideas.
 
-SRCCON:POWER sessions last about 60-75 minutes, and we encourage facilitators to think about outlines and information density. Overprogramming a session with too many activities can make it hard to reach a satisfying goal—but a session that&rsquo;s underdesigned can easily turn into a conversation between a handful of the loudest people. We&rsquo;re happy to help facilitators figure out the right balance.
+SRCCON:POWER sessions last 75 minutes, and we encourage facilitators to think about outlines and information density. Overprogramming a session with too many activities can make it hard to reach a satisfying goal—but a session that&rsquo;s underdesigned can easily turn into a conversation between a handful of the loudest people. We&rsquo;re happy to help facilitators figure out the right balance.
 
 ## What Does a Session Facilitator Do?
 

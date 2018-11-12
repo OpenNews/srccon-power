@@ -7,9 +7,9 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-Thank you to everyone who proposed a session idea for SRCCON:POWER! We're reviewing all proposals right now, and you'll hear back from us soon. If you're interested in joining us in Philadelphia, the  [attendee form](/participation/form) is still open!
+We're so excited to start sharing the program for SRCCON:POWER! We'll publish the official schedule soon, but you can jump right into [how the program will work](/program) and the [list of sessions](/sessions) coming to Philly. If you see something that gets you excited about joining us, the [attendee form](/participation/form) is still open!
 
-Curious about how all this works? Learn more about [sessions](/sessions) and [participation](/participation) at SRCCON:POWER.
+Curious about how all this works? Learn more about [sessions](/sessions/about) and [participation](/participation) at SRCCON:POWER.
 
 ## When & Where
 
