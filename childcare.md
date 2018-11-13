@@ -4,15 +4,20 @@ section: childcare
 permalink: /childcare/
 ---
 
-<p class="big-lead">We offer free childcare for the duration of the SRCCON:POWER program and welcome families of all sizes.</p>
+# Childcare
 
-We are offering free childcare throughout the full SRCCON:POWER schedule (including Thursday evening). Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/) team, whom we&rsquo;ve worked with for five SRCCON events!
+We offer free childcare throughout the SRCCON:POWER program (including Thursday evening) and welcome families of all sizes. Our providers are the wonderful [KiddieCorp](https://www.kiddiecorp.com/) team, whom we&rsquo;ve worked with for five SRCCON events! [Here's why we think providing childcare at our events is so important](https://opennews.org/blog/srccon-childcare/).
 
 ## Our care providers
 
 Staff-to-child ratios range from 1:2 for children 6-11 months to 1:7 for children aged 6-12 years, and KiddieCorp will work with SRCCON organizers to handle registration and logistics so your kid(s) can have a great time while you&rsquo;re conferencing. All caregivers act as employees of KiddieCorp (not contractors) and are recruited from local licensed daycare centers, elementary schools, preschools, and collegiate departments of early childhood education.
 
 Two of our own staff members have had their young children happily in KiddieCorp&rsquo;s care and we were all impressed by the thoughtfulness they brought to every aspect of their services.
+
+## About this year's program
+
+* Our childcare manager will be Juanita from Baltimore, a senior program director for youth wellbeing programs at the Y in central Maryland.
+* This year's theme is "Superheroes Unite", giving some fun structure to group games, arts & crafts, and play times throughout the day.
 
 ## Logistics
 
