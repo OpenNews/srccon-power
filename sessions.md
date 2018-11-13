@@ -10,7 +10,7 @@ permalink: /sessions/
 
 Sessions at SRCCON:POWER are [collaborative and hands-on](/sessions/about), a chance to draw on the experiences of every attendee and work together on plans to change the power dynamics in journalism. Our schedule will explore many of the ways power operates in our newsrooms, in communities, and in tech through the sessions listed below, as well as a series of talks throughout our days.
 
-We still have a few session topics to confirm, and some descriptions here may evolve between now and our conference, Dec. 13 & 14 in Philadelphia. Huge thanks to all who submitted proposals, and to the community panel that helped us during the review process.
+We still have a few session topics to confirm, and some descriptions here may evolve between now and our conference, Dec. 13 & 14 in Philadelphia. Huge thanks to all who submitted proposals, and to the [community panel](#community-review) that helped us during the review process.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}

@@ -33,7 +33,7 @@ If you&rsquo;ve been to SRCCON before, have never been, or have never even heard
 
 ## How much does it cost?
 
-Tickets will cost $225, plus ticketing fees. We&rsquo;ll also offer a limited number of need-based travel scholarships, with a $500 stipend for travel costs and a free ticket.
+Tickets will cost $225, plus ticketing fees.
 
 ## What&rsquo;s next?
 
