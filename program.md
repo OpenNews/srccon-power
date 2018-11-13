@@ -15,7 +15,7 @@ SRCCON:POWER will explore how we as a community can make journalism more inclusi
 
 ## Schedule Overview
 
-Our schedule will include two types of sessions: talks that present research on power in newsrooms, communities, and tech; and participatory sessions where small groups can dig deeper into those themes. We'll provide live transcription of the talks as they take place, and make sure breakout sessions are a space for more private conversations.
+Our schedule will include two types of sessions: [talks](#about-talks) that present research on power in newsrooms, communities, and tech; and participatory [sessions](#about-sessions) where small groups can dig deeper into those themes. We'll provide live transcription of the talks as they take place, and make sure breakout sessions are a space for more private conversations.
 
 We'll publish our official schedule soon, but the overall days will be shaped approximately like this:
 
@@ -42,6 +42,8 @@ We’ve built in generous breaks so that you can continue conversations without 
 
 We want SRCCON:POWER to feel less like a small conference and more like a big cohort. We hope you’ll find new colleagues, champions, collaborators in every space and leave SRCCON:POWER with new ideas _and_ new relationships. When you take on the work of bringing change to your newsroom, it helps to know you have a community supporting you.
 
+<span id="about-talks"></span>
+
 ## About Our Talks
 
 Talks will open both our days at SRCCON:POWER, bring us back from lunch, and send us off to dinner on Thursday night. SRCCON events are all about participation and conversation, and these are no different—we'll get a chance to hear about research into the way power operates in our work, then follow up with time for Q&A. We've asked speakers to challenge us, because solutions to systemic problems won't come from the ways we've approached journalism in the past.
@@ -54,6 +56,10 @@ Our speakers at SRCCON:POWER will include:
 * Rachel Schallom ([@rschallom](https://twitter.com/@rschallom)) and Ben Mullin ([@benmullin](https://twitter.com/@benmullin))
 * Sara Wachter-Boettcher ([@sara_ann_marie](https://twitter.com/sara_ann_marie))
 
+<span id="about-sessions"></span>
+
 ## About Our Sessions
 
-Sessions at SRCCON events are highly collaborative: an opportunity to compare notes, share skills, and take advantage of every attendee’s expertise. We learn best when we learn from each other, and we want you to share ideas and start projects that live on beyond this event. [See the sessions on the SRCCON:POWER program](/sessions).
+Sessions at SRCCON events are highly collaborative: an opportunity to compare notes, share skills, and take advantage of every attendee’s expertise. We learn best when we learn from each other, and we want you to share ideas and start projects that live on beyond this event.
+
+[See the sessions on the SRCCON:POWER program](/sessions).
