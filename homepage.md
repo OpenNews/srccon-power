@@ -7,13 +7,15 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-Thank you to everyone who proposed a session idea for SRCCON:POWER! We're reviewing all proposals right now, and you'll hear back from us soon. If you're interested in joining us in Philadelphia, the  [attendee form](/participation/form) is still open!
+We're so excited to start sharing the program for SRCCON:POWER! We'll publish the official schedule soon, but you can jump right into [how the program will work](/program) and the [list of sessions](/sessions) coming to Philly. If you see something that gets you excited about joining us, the [attendee form](/participation/form) is still open!
 
-Curious about how all this works? Learn more about [sessions](/sessions) and [participation](/participation) at SRCCON:POWER.
+Curious about how all this works? Learn more about [sessions](/sessions/about) and [participation](/participation) at SRCCON:POWER.
 
 ## When & Where
 
 December 13 & 14 in Philadelphia, at the [Science History Institute](https://www.sciencehistory.org) (formerly the Chemical Heritage Foundation, home of [SRCCON:WORK](https://work.srccon.org) and [SRCCON 2014](https://2014.srccon.org)).
+
+You'll find information about our conference hotel block and more on [the SRCCON:POWER logistics page](/logistics).
 
 ## About SRCCON:POWER
 
@@ -31,7 +33,7 @@ If you&rsquo;ve been to SRCCON before, have never been, or have never even heard
 
 ## How much does it cost?
 
-Tickets will cost $225, plus ticketing fees. We&rsquo;ll also offer a limited number of need-based travel scholarships, with a $500 stipend for travel costs and a free ticket.
+Tickets will cost $225, plus ticketing fees.
 
 ## What&rsquo;s next?
 
