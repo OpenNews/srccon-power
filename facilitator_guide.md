@@ -11,10 +11,10 @@ permalink: /facilitators/
 Collaboration is at the core of [the SRCCON:POWER program](/program). Facilitators lead hands-on sessions that explore how power operates in journalism, and prepare us to push for change in our own newsrooms and communities.
  
 ## In This Guide
-* [What Sets SRCCON:WORK Apart?](#about-srccon)
+* [What Sets SRCCON:POWER Apart?](#about-srccon)
 * [What Is a Facilitator and What Do They Do?](#what-is-a-facilitator)
-* [Planning Your Session Before SRCCON:WORK](#planning)
-* [Facilitating a Great Session Once You're at SRCCON:WORK](#facilitating)
+* [Planning Your Session Before SRCCON:POWER](#planning)
+* [Facilitating a Great Session Once You're at SRCCON:POWER](#facilitating)
 * [How Many People Will Be In My Session?](#how-many-people)
 * [What Kinds of People Will Be In My Session?](#what-kinds-people)
 * [What Materials Will I Have?](#what-materials)

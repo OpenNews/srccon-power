@@ -18,12 +18,11 @@ We're still finalizing details, but your travel plans can anticipate the SRCCON:
 
 We have a discounted block of rooms at the Wyndham Philadelphia Historic District Hotel a few blocks from the conference venue. The nightly rate will be $179 plus taxes. 
 
-You can use [this link](https://book.passkey.com/e/49796992) to book a room at the discounted rate or call the hotel directly and tell them you're with SRCCON:POWER. This rate is available until November 19 or when it has sold out, whichever happens first, so book as soon as you are able.
+You can use [this link](https://book.passkey.com/e/49796992) to book a room at the discounted rate or call the hotel directly and tell them you're with SRCCON:POWER. Our deadline for this rate has been extended to November 26, so please book as soon as you are able.
 
 ## Room Share
 
 Have a room and looking for a roommate? Don’t have a room and looking for someone who does? Add your info to [the room share list](https://etherpad.opennews.org/p/srcconpowerRoomShare2018).
-
 
 ## Childcare
 
