@@ -28,18 +28,16 @@ Collaboration is at the core of [the SRCCON:POWER program](/program). Facilitato
  
 ## What Sets SRCCON:POWER Apart?
  
-SRCCON:POWER and our other SRCCON events are highly participatory events, where everyone is engaged in learning, building, and problem-solving together. When you run a session at SRCCON:POWER, you're in a room with dozens of other smart people with an opportunity to compare notes, share skills, and help everyone learn from each other.
+SRCCON:POWER, like all our SRCCON events, is highly participatory. Everyone is engaged in learning, building, and problem-solving together. When you run a session at SRCCON:POWER, you're in a room with dozens of other smart people with an opportunity to compare notes, share skills, and help everyone learn from each other.
 
-[[[[[[
-SRCCON:WORK will explore how we as a community can make journalism more inclusive, representative, and responsive. It is organized around a set of themes:
+SRCCON:POWER is an intentionally small event, with about 125 attendees, but we have some big thematic goals. We want to explore the ways power operates in our organizations, in our relationships with communities, and in the tech and algorithms we use and make. Our days will bring everyone together for a small group of talks and research presentations, then we'll break out to dig into these themes in participatory sessions like yours.
 
-* **Thursday AM: Hiring & Career Growth.** Our communities deserve coverage that brings in representative voices and makes newsrooms a place they want to stay.
-* **Thursday PM: Mental Health & Self-care.** Let’s talk about staying healthy—as individuals and as a community—so that even when the work gets hard, we don’t lose sight of the meaning we find in it.
-* **Friday AM: Collaboration & Teamwork.** We’ll share strategies to manage and mentor each other, and build happy, functional teams that communicate and coordinate across organizations.
-* **Friday PM: What Comes Next.** Let’s get ready to go home and change newsroom culture. This is where the work starts, not ends.
-]]]]]]
+Here are a couple ways we're thinking all this comes together at SRCCON:POWER:
 
-Our sessions are built around participation and collaborative problem-solving where every attendee is a peer—our name badges don’t flag organizations or speaker status. We're all here to learn from each other. We put a lot of intention into the composition of the crowd at SRCCON:POWER, to make it easy to find collaborators and folks who have faced similar questions or who are grappling with them right now. We're also available to lend support as the conversations continue after this event and into your newsroom or NICAR or beyond.
+* We want to equip attendees to push for change. As a facilitator, you can help that happen through building new resources together, leading conversations that connect people who can support each other's work, or sharing information that can help attendee to make the case for change with stakeholders back home.
+* We want to support your work not just *at* SRCCON:POWER, but down the road too. What kind of change do YOU want to see, where you work or in your community? We'll be asking about ways we can continue to support you, because we see SRCCON events as the place work starts, not ends.
+
+Attendees will come into your session as peers and collaborators. Our name badges don’t flag organizations or speaker status—we're all here to learn from each other. We put a lot of intention into the composition of the crowd at SRCCON:POWER, to pull from a wide range of experiences and backgrounds while still gathering folks interested in similar questions. Your session will be THE thing some people take home from SRCCON:POWER, because they learned something new and vital, or they were heard for what feels like the first time. That's an incredible thing, and we're so excited to work with you to make it happen!
 
 <span id="what-is-a-facilitator"></span>
 
@@ -61,10 +59,10 @@ We'll also have an in-person facilitator training the evening of Wednesday, Dec.
  
 SRCCON:POWER attendees show up ready to pitch in, whether that's working through activities, writing collaboratively, or participating in conversations. Much of the work you'll do as a facilitator will take place in the weeks leading up to SRCCON:POWER, as you outline your session. We've found that keeping two things in mind can help translate your awesome ideas into a meaningful experience for attendees:
  
-* **Scope:** Broad topics need some boundaries, or conversations won't go anywhere. Niche sessions are great but need enough topical space for a variety of people to participate. Similarly, over-programming a session with too many activities can make it impossible to get to your goals—but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people.
-* **Outcomes:** Think about what you want attendees to take away from your session. A new or improved skill? A broader sense of community? The excitement of solving a problem they'd been facing alone? If you start planning your session by thinking about the end, it helps you focus everything leading up to that moment.
+* **Scope.** Broad topics need some boundaries, or conversations won't go anywhere. Niche sessions are great but need enough topical space for a variety of people to participate. Similarly, over-programming a session with too many activities can make it impossible to get to your goals—but a session that's underdesigned can easily turn into a conversation between a handful of the loudest people.
+* **Outcomes.** Think about what you want attendees to take away from your session. A new or improved skill? A broader sense of community? The excitement of solving a problem they'd been facing alone? If you start planning your session by thinking about the end, it helps you focus everything leading up to that moment.
  
-From there, you have a huge amount of room to explore creative ways to work with attendees. Slide presentations and lectures aren’t what you’re after, but conversations and small-group work are staples on the SRCCON:POWER schedule. There are many outstanding session formats to consider, as well: design exercises, games, technical workshops, role-playing, even physical movement and field trips outside the conference space. Fun is good. We'll support all sorts of ways to help you engage with people and make abstract concepts real.
+From there, you have a huge amount of room to explore creative ways to work with attendees. Big slide presentations and lectures aren’t what you’re after, but conversations and small-group work are staples on the SRCCON:POWER schedule. There are many outstanding session formats to consider, as well: design exercises, games, technical workshops, role-playing, even physical movement and field trips outside the conference space. Fun is good. We'll support all sorts of ways to help you engage with people and make abstract concepts real.
  
 Another thing to consider as you map out your session outline: Expect the unexpected. It's easy to imagine the best-case scenario, where everything runs smoothly and according to plan—and that's probably exactly how your session will go! But what if you ask your first question and no one answers? What if someone shares an amazing idea, and you want to follow up on it? You’ll be responding to situations like these on the fly, and you’ll be a lot more confident if you've thought through some scenarios in advance. Plan more material than you think you'll need, and know you can feel good about dropping some of it—you just don’t know which parts it will be.
  
@@ -80,7 +78,7 @@ Once you're at the venue, conference staff and volunteers will be around to answ
 
 ### How Many People Will Be In My Session?
  
-About 125 people will attend SRCCON:POWER, and we program 3 or 4 sessions at a time, so most will have 25 to 35 people in the room. Some topics will draw fewer—and that's fine! Small sessions are incredibly meaningful for the people who are there, and we want to encourage those conversations.
+About 125 people will attend SRCCON:POWER, and we program 3 or 4 sessions at a time, so most will have 20 to 30 people in the room. Some topics will draw fewer—and that's fine! Small sessions are incredibly meaningful for the people who are there, and we want to encourage those conversations.
  
 Some sessions might bring in larger crowds as well, so we encourage you to spend a little time thinking about how you might accommodate different group sizes. Will you be working in small groups that can scale up or down? Are you running an activity that might need extra supplies? We'll have volunteers available to help you make room adjustments on the fly, but you'll be happier if you go in knowing how you'll respond to different crowd sizes.
  
@@ -103,9 +101,9 @@ As a facilitator, there are a couple ways you can really support the people in y
  
 Every room at SRCCON:POWER will be well-stocked with note paper, post-it notes, pens, and sharpies. We'll make sure you have a whiteboard or a giant scratchpad on an easel, too; if you want to send people away with ideas they can act on, grabbing a marker and whiteboarding the best comments from the room is a great way to do it.
  
-Each room will have a screen so you can connect your laptop and show examples to kick off a discussion. We'll also set up a shared document for live note-taking, linked right from your session on the SRCCON:POWER schedule. This is a great place to drop links to useful resources for you session attendees.
+Each room will have a screen so you can connect your laptop and show examples to kick off a discussion. We'll also set up a shared document for live note-taking, linked right from your session on the SRCCON:POWER schedule. This will be a great place to drop links to useful resources for you session attendees.
  
-If you need any special supplies for your session, we’ll ask you to tell us about them in the weeks before the conference so we can order them and have them ready for you.
+If you need any special supplies for your session, you can let us know in the weeks before the conference so we can order them and have them ready for you.
 
 <span id="how-much-time"></span>
 
@@ -115,13 +113,11 @@ The conference schedule sets aside 75 minutes for each SRCCON:POWER session. You
  
 How you use your time is completely up to you. While you won't need a script like you might for a traditional conference talk, we do thoroughly encourage outlines. Sessions are always a little less daunting once you break them into smaller pieces, and knowing how you plan to budget your time helps you stay on task while you’re doing it live.
 
-[[[[[[
 <span id="recording"></span>
  
 ### Will My Session Be Recorded?
 
-SRCCON:POWER works with [White Coat Captioning](http://www.whitecoatcaptioning.com/), and we'll transcribe about 1/3 of our sessions for sharing after the conference is over. The stenographer will be in the Ullyot North room, so if your session is in that spot, it will be transcribed. The transcriptions for these sessions *will not* be shared live. The transcripts may be shared after the event. We will coordinate with you about whether you would like to share the transcript and how you would like to edit it. We know that at this event folks might want to have a lot more "off the record" conversations, so we won't share session transcripts live.
-]]]]]]
+SRCCON:POWER works with [White Coat Captioning](http://www.whitecoatcaptioning.com/), and we'll transcribe about 1/4 of our breakout sessions at this event. We know that "off the record" conversations will be important, so session transcripts *will not* be shared live. If the stenographer will be in the room for your session, we'll let you know in advance, and we'll coordinate with you after SRCCON:POWER about any editing and sharing you might like to do.
 
 <span id="tips-facilitations"></span>
 
