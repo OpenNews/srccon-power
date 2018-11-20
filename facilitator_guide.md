@@ -119,7 +119,7 @@ How you use your time is completely up to you. While you won't need a script lik
 
 SRCCON:POWER works with [White Coat Captioning](http://www.whitecoatcaptioning.com/), and we'll transcribe about 1/4 of our breakout sessions at this event. We know that "off the record" conversations will be important, so session transcripts *will not* be shared live. If the stenographer will be in the room for your session, we'll let you know in advance, and we'll coordinate with you after SRCCON:POWER about any editing and sharing you might like to do.
 
-<span id="tips-facilitations"></span>
+<span id="tips-facilitation"></span>
 
 ## Tips on Effective Facilitation
  
