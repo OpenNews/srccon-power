@@ -83,14 +83,14 @@ header #header-image { /* default to Philly skyline homepage background */
 }
 .childcare #header-image {
     background-image: url(/media/img/backgrounds/childcare.jpg);
-    background-position: 0 0;
+    background-position: 0 -100px;
 }
 .logistics #header-image {
     background-image: url(/media/img/backgrounds/logistics.jpg);
     background-position: 0 0;
 }
 .program #header-image {
-    background-image: url(/media/img/backgrounds/program.jpg);
+    background-image: url(/media/img/backgrounds/chemical.jpg);
     background-position: 0 0;
 }
 .localguide #header-image {
@@ -111,19 +111,10 @@ header #header-image { /* default to Philly skyline homepage background */
 }
 
 /* HEADER STYLES */
-header #corner-logo {
-    position: absolute;
-    z-index: 100;
-    margin: .33em 1em -150px 0;
-}
-header #corner-logo img {
-    width: 240px;
-    margin-top: -7px;
-}
 header {
     position: relative;
 }
-header a#header-logo img {
+a#header-logo img {
   display: block;
   width: 420px;
   position: absolute;
@@ -271,7 +262,7 @@ footer #footer-nav {
     margin-bottom: 1em;
     font-size: .6em;
 }
-footer ul {
+footer ul, footer p {
     margin: 0 0 2em;
     padding: 0;
 }
@@ -501,11 +492,9 @@ table a.session-transcript {
     header, main, .page-block {
         margin-bottom: 1.3em;
     }
-    header #corner-logo {
-        margin: .5em;
-    }
-    header #corner-logo img {
-        width: 210px;
+    a#header-logo img {
+      width: 360px;
+      bottom: -84px;
     }
     #header-image .photo-credit {
         bottom: auto;
@@ -554,9 +543,16 @@ table a.session-transcript {
     }
 }
 
+@media screen and (max-width: 680px) {
+    a#header-logo img {
+      bottom: -70px;
+    }
+}
+
 @media screen and (max-width: 640px) {
-    header #corner-logo img {
-        width: 180px;
+    a#header-logo img {
+      width: 320px;
+      bottom: -75px;
     }
     header nav ul {
         font-size: .6em;
@@ -589,15 +585,34 @@ table a.session-transcript {
     }
 }
 
+@media screen and (max-width: 580px) {
+    a#header-logo img {
+      width: 320px;
+      bottom: -65px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    a#header-logo img {
+      width: 320px;
+      bottom: -45px;
+    }
+    #main-callout .button {
+        margin-right: .5em;
+    }
+}
+
 @media screen and (max-width: 480px) {
     body {
         font-size: 1.4em;
     }
-    header #corner-logo {
-        margin: 1.3em .5em .5em .5em;
-    }
-    header #corner-logo img {
-        width: 150px;
+    a#header-logo img {
+      position: relative;
+      width: 80%;
+      margin-left: 10%;
+      margin-right: 9%;
+      margin-top: 0;
+      margin-bottom: 0;
     }
     header nav ul {
         align-items: center;
@@ -606,6 +621,13 @@ table a.session-transcript {
     }
     header nav ul li {
         flex-grow: 1;
+    }
+    main {
+        margin-top: 50px;
+    }
+    #main-callout .button {
+        margin-left: 0;
+        margin-right: 0;
     }
     .homepage #header-image {
         background-position: 0 0;
