@@ -19,7 +19,8 @@ Our schedule will include two types of sessions: [talks](#about-talks) that pres
 
 We'll publish our official schedule soon, but the overall days will be shaped approximately like this:
 
-**Thursday, Dec. 14**
+**Thursday, Dec. 13**
+
 * **8am:** Registration and breakfast
 * **9am:** Welcome
 * **9:30am-12:30pm:** Talks, sessions & breaks
@@ -28,6 +29,7 @@ We'll publish our official schedule soon, but the overall days will be shaped ap
 * **Evening:** Small group dinners in Philly
 
 **Friday, Dec. 14**
+
 * **8:30am:** Breakfast
 * **9:30am-1pm:** Talks, sessions & breaks
 * **1-2:30pm:** Lunch at SRCCON:POWER
