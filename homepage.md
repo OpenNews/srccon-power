@@ -7,7 +7,7 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-We're so excited to start sharing the program for SRCCON:POWER! We'll publish the official schedule soon, but you can jump right into [how the program will work](/program) and the [list of sessions](/sessions) coming to Philly. If you see something that gets you excited about joining us, the [attendee form](/participation/form) is still open!
+We're so excited to start sharing the program for SRCCON:POWER! We'll publish the official schedule soon, but you can jump right into [how the program will work](/program) and the [list of sessions](/sessions) coming to Philly.
 
 Curious about how all this works? Learn more about [sessions](/sessions/about) and [participation](/participation) at SRCCON:POWER.
 
@@ -29,7 +29,7 @@ Participants will leave with a deepened understanding of power at a technologica
 
 This is an event for anyone interested in better understanding how power operates at the intersection of journalism and tech. We&rsquo;re looking for folks with insights—gathered through research, life experience, or otherwise—in how power structures influence the work and efficacy of journalism. Participants will have the opportunity to spend two days with colleagues who are interested in increasing equity and bringing transparency to the systems of power that inform journalism and how we approach this work.
 
-If you&rsquo;ve been to SRCCON before, have never been, or have never even heard of SRCCON, we&rsquo;re excited for you to participate! We will invite folks to attend the event through a [call for participation application form](/participation/form). The deadline for session proposals and scholarship applications is past, but we&rsquo;ll keep the form open for attendees as long as we can.
+If you&rsquo;ve been to SRCCON before, have never been, or have never even heard of SRCCON, we&rsquo;re excited for you to participate! Our call for participation form is now closed. Sometimes there are last-minute cancellations though, so feel free to [email us](mailto:srccon@openews.org) to see if any tickets have become available.
 
 ## How much does it cost?
 
