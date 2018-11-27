@@ -6,10 +6,11 @@
         "cofacilitator_twitter": "brianboyer", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "In this session, I’d like to explore the idea of “family” within the workplace. In some ways, having a close personal working relationship with your colleagues builds trust, fosters greater collaboration and, in times of adversity, trauma or distress, allows for a level of comfort. In others, considering your co-workers as family can be detrimental. It opens doors for manipulation, open secrets and requires a level of vulnerability, which can be used against one another. At what level does a family-like environment help versus when does it start to hurt? What can we do to build these relationships in a productive manner while respecting workplace boundaries like separation of work and personal life? Finally, how can we prevent these boundaries from being crossed and the closeness from being manipulative? ", 
+        "description": "In this session, I’d like to explore the idea of “family” within the workplace. In some ways, having a close personal working relationship with your colleagues builds trust, fosters greater collaboration and, in times of adversity, trauma or distress, allows for a level of comfort. In others, considering your co-workers as family can be detrimental. It opens doors for manipulation, open secrets and requires a level of vulnerability, which can be used against one another. At what level does a family-like environment help versus when does it start to hurt? What can we do to build these relationships in a productive manner while respecting workplace boundaries like separation of work and personal life? Finally, how can we prevent these boundaries from being crossed and the closeness from being manipulative?", 
         "facilitator": "Brittany Mayes", 
         "facilitator_twitter": "BritRenee_", 
         "id": "work-family", 
+        "talk": "", 
         "title": "A family that works together, stays together. Right?"
     }, 
     {
@@ -19,10 +20,11 @@
         "cofacilitator_twitter": "losowsky", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "We’ve all had problems with a boss. And then some of us became bosses, and found that managing people is hard. How might we work within the inherent power dynamics of boss/employee (or team leader/team member) to create better, more inclusive, more humane work environments? If you’re a manager, what are you most afraid of? What are the best and worst lessons you’ve learned about how to work with people of different ages and experiences, and empower everyone to be their best selves at work? Let’s have an open discussion on how to use hierarchies to support everyone. Examples from personal experiences are very welcome! ", 
+        "description": "We’ve all had problems with a boss. And then some of us became bosses, and found that managing people is hard. How might we work within the inherent power dynamics of boss/employee (or team leader/team member) to create better, more inclusive, more humane work environments? If you’re a manager, what are you most afraid of? What are the best and worst lessons you’ve learned about how to work with people of different ages and experiences, and empower everyone to be their best selves at work? Let’s have an open discussion on how to use hierarchies to support everyone. Examples from personal experiences are very welcome!", 
         "facilitator": "Sasha Koren", 
         "facilitator_twitter": "sashak", 
         "id": "more-ethical-managers", 
+        "talk": "", 
         "title": "Becoming a more ethical manager"
     }, 
     {
@@ -36,6 +38,7 @@
         "facilitator": "Heather Bryant", 
         "facilitator_twitter": "HBCompass", 
         "id": "bootstrap-bias", 
+        "talk": "", 
         "title": "Bootstrap Bias"
     }, 
     {
@@ -49,6 +52,7 @@
         "facilitator": "Sarah Schmalbach", 
         "facilitator_twitter": "schmalie", 
         "id": "newsroom-tools-power", 
+        "talk": "", 
         "title": "Forget toolkits—let’s talk about tools. What is the relationship between the tools we’re given and the power we have in newsrooms?"
     }, 
     {
@@ -62,6 +66,7 @@
         "facilitator": "Molly de Aguiar", 
         "facilitator_twitter": "mollydeaguiar", 
         "id": "funders", 
+        "talk": "", 
         "title": "Funders: Can’t live with ’em. Can’t live without ’em! "
     }, 
     {
@@ -71,10 +76,11 @@
         "cofacilitator_twitter": "", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Discussions of race, gender and power in journalism aren't new. In fact, some of the country's most dynamic journalists throughout history were resisters and activists, working outside of dominant power systems. This session is a dive into historical legacies of resistance in journalism, from known names like Ida B. Wells to lesser-known leaders like Marvel Cooke and Ruben Salazar. We'll look at strategies for building power from starting independent and community-based projects to union organizing, legal action, boycotts and protests. We'll connect these stories from the past to current-day strategies for transforming journalism and building the news we need today.  Facilitator Lewis Wallace is currently writing a book about the history of \"objectivity\" in journalism, through the stories of marginalized journalists who have pushed back, challenged, and changed journalism in the U.S. ", 
+        "description": "Discussions of race, gender and power in journalism aren't new. In fact, some of the country's most dynamic journalists throughout history were resisters and activists, working outside of dominant power systems. This session is a dive into historical legacies of resistance in journalism, from known names like Ida B. Wells to lesser-known leaders like Marvel Cooke and Ruben Salazar. We'll look at strategies for building power from starting independent and community-based projects to union organizing, legal action, boycotts and protests. We'll connect these stories from the past to current-day strategies for transforming journalism and building the news we need today.  Facilitator Lewis Wallace is currently writing a book about the history of \"objectivity\" in journalism, through the stories of marginalized journalists who have pushed back, challenged, and changed journalism in the U.S.", 
         "facilitator": "Lewis Wallace", 
         "facilitator_twitter": "lewispants", 
         "id": "legacies-resistance", 
+        "talk": "", 
         "title": "Historical legacies of resistance in journalism"
     }, 
     {
@@ -88,7 +94,22 @@
         "facilitator": "Nozlee Samadzadeh", 
         "facilitator_twitter": "nzle", 
         "id": "influence-authority", 
+        "talk": "", 
         "title": "Influence versus authority: wielding power at all levels of an organization"
+    }, 
+    {
+        "cofacilitator": "Joe Amditis", 
+        "cofacilitator_three": "", 
+        "cofacilitator_three_twitter": "", 
+        "cofacilitator_twitter": "jsamditis", 
+        "cofacilitator_two": "", 
+        "cofacilitator_two_twitter": "", 
+        "description": "Democracy is a word that gets thrown around a lot as a by-product of journalism. But when was the last time you took a moment to really interrogate what democracy is, how it functions, and your relationship with it? What role should democracy play in the workplace, in the home, and in our every day lives? \n\nIn this session, we'll begin to address these questions. We'll collectively define what we mean by \"democracy\" and examine some of the roles journalism plays in cultivating it and not. We'll try to grapple with the some of the challenges democracy poses and explore potential solutions rooted in democratic values. This will be a highly participatory session. Participants will leave the session with a handful of useful tools, tactics, and ideas for cultivating more democracy in their lives.", 
+        "facilitator": "Simon Galperin", 
+        "facilitator_twitter": "thensim0nsaid", 
+        "id": "meeting-democratic-challenges", 
+        "talk": "", 
+        "title": "Is this what democracy looks like? Meeting democratic challenges with collective solutions"
     }, 
     {
         "cofacilitator": "", 
@@ -97,11 +118,12 @@
         "cofacilitator_twitter": "", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Accessibility is frequently seen as a zero-sum feature that is excluded from initial planning and frequently left out altogether. At this session, we’ll be exploring the Curb Cut Effect- when designing for the inclusion of a minority group benefits everyone. Join us reframing the conversation on accessibility.", 
+        "description": "Accessibility is frequently seen as a zero-sum feature that is excluded from initial planning and frequently left out altogether. At this session, we’ll be exploring the Curb Cut Effect— that is, instances when designing for the inclusion of a minority group benefit all. Join us in reframing the conversation on accessibility.", 
         "facilitator": "Kevin Huber", 
         "facilitator_twitter": "kevinahuber", 
         "id": "accessibility-gap", 
-        "title": "Minding the Accessibility Gap"
+        "talk": "", 
+        "title": "Minding the (Accessibility) Gap"
     }, 
     {
         "cofacilitator": "Ashley Alvarado", 
@@ -110,10 +132,11 @@
         "cofacilitator_twitter": "ashleyalvarado", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Many news sites have mission, vision, and values statements. But what about members, people who contribute to journalism with their time, energy, money, and ideas? Let's draft manifestos for and with member input about their side of the social contract. This will be a roll-up-your-sleeves session to start ensuring that members' voices are more fully considered in station and news site decision-making.\n\n(Note: this session could begin with a brief grounding discussion about what supporters of independent news need. Subscribers, members, and donors tell the Membership Puzzle Project that sites worth their attention exemplify a consistent set of design principles. I can talk about inclusivity, humanity, humility, and other characteristics make some sites stand out in ways that encourage long-term feelings of belonging and commitment.)", 
+        "description": "Many news sites have mission, vision, and values statements. But what about people who contribute to journalism with their time, energy, money, and ideas?\n\nEngagement journalism, solutions journalism, member-driven reporting, and movement journalism all have a common heart: their practitioners put community members and their needs at the center of the work—not driving clicks or piling onto the news of the day. Let’s talk about the people behind these approaches and what we expect of leaders in this space (including you). Together we’ll share ways to better tell the stories of how we work and how people in our communities can be involved in it. Let’s start ensuring that community members’ voices are more fully considered in station and news site decision-making.", 
         "facilitator": "Emily Goligoski", 
         "facilitator_twitter": "emgollie", 
         "id": "empowering-communitieis", 
+        "talk": "", 
         "title": "Much more than eyeballs: Exploring & empowering community members’ power"
     }, 
     {
@@ -127,6 +150,7 @@
         "facilitator": "Di Luong", 
         "facilitator_twitter": "fourthlettr", 
         "id": "algorithms-social-justice", 
+        "talk": "", 
         "title": "Overview of Pre-trial Risk Assessment Tools: A Social Justice Perspective"
     }, 
     {
@@ -136,24 +160,12 @@
         "cofacilitator_twitter": "kaeti", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "The entrenched position of media may feel precarious at best when news organisations and individual journalists are actively under threat around the world. Between the daily fatigue of seemingly never-ending layoffs and the tragedy of journalists being killed by hostile regimes, it is tempting to believe we have no power left. That temptation has started to lead us down a path of failing to take responsibility for the power we continue to wield. ", 
+        "description": "The entrenched position of media may feel precarious at best when news organisations and individual journalists are actively under threat around the world. Between the daily fatigue of seemingly never-ending layoffs and the tragedy of journalists being killed by hostile regimes, it is tempting to believe we have no power left. That temptation has started to lead us down a path of failing to take responsibility for the power we continue to wield.", 
         "facilitator": "Stacy-Marie Ishmael", 
         "facilitator_twitter": "s_m_i", 
         "id": "personal-institutional-responsibility", 
+        "talk": "", 
         "title": "Phenomena and phenomenon: everyday personal institutional responsibility"
-    }, 
-    {
-        "cofacilitator": "Kat Bouza", 
-        "cofacilitator_three": "", 
-        "cofacilitator_three_twitter": "", 
-        "cofacilitator_twitter": "katbeee", 
-        "cofacilitator_two": "", 
-        "cofacilitator_two_twitter": "", 
-        "description": "There are certain parts of every newsroom and every workplace that are dominated by women. Historically, you might think of secretaries, nurses, or teachers as jobs traditionally held by women. But there's a new subset of jobs emerging in newsrooms and across media corporations that are dominated by women too—and not just on the social media team. We'll lead a conversation about the ways in which areas dominated by women are often underestimated and undervalued, and how the people in those jobs can learn to take hold of their own power.", 
-        "facilitator": "Kristin Oakley", 
-        "facilitator_twitter": "kristinmoakley", 
-        "id": "gendered-newsroom-roles", 
-        "title": "Shedding the Pink Collar: asserting power when your job is on a gendered team"
     }, 
     {
         "cofacilitator": "Julia B. Chan", 
@@ -166,6 +178,7 @@
         "facilitator": "Emmanuel Martinez", 
         "facilitator_twitter": "eman_thedataman", 
         "id": "power-people-of-color", 
+        "talk": "", 
         "title": "Power to the People—of Color"
     }, 
     {
@@ -179,7 +192,22 @@
         "facilitator": "Steven Rich", 
         "facilitator_twitter": "dataeditor", 
         "id": "run-for-boards", 
+        "talk": "", 
         "title": "Run for the board"
+    }, 
+    {
+        "cofacilitator": "Kat Bouza", 
+        "cofacilitator_three": "", 
+        "cofacilitator_three_twitter": "", 
+        "cofacilitator_twitter": "katbeee", 
+        "cofacilitator_two": "", 
+        "cofacilitator_two_twitter": "", 
+        "description": "There are certain parts of every newsroom and every workplace that are dominated by women. Historically, these “gendered” roles were secretaries, nurses, or teachers. But, there’s a new subset of jobs emerging in newsrooms and across media corporations that are dominated by women, too — and not just on the social media team. We’ll lead a conversation about the ways in which areas dominated by women are often underestimated and undervalued, and how women in these spaces can learn to take hold of their own power.", 
+        "facilitator": "Kristin Oakley", 
+        "facilitator_twitter": "kristinmoakley", 
+        "id": "gender-power-newsroom", 
+        "talk": "", 
+        "title": "Shedding the Pink Collar: Gender and power in the workplace"
     }, 
     {
         "cofacilitator": "", 
@@ -188,10 +216,11 @@
         "cofacilitator_twitter": "", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Who gets paid how much in our organizations? Are we able to explain why?\n\nThis session is designed to generate actionable steps newsrooms and journalists can take to establish more equitable pay policies within their organizations.\n\nWhile questions of compensation are universal to all workplaces, there are some unique aspects to newsrooms—especially the blurry line between the valuable labor of information gathering and analysis, and volunteerism in the name of citizenship, self-expression, and community representation.\n\nHow can journalism organizations translate the value they produce in the world to their compensation structure in ways that fair and equitable? When, how, and on what grounds can journalists challenge established pay practices? \n\nTo ground us, we'll briefly review, with examples, how journalism organizations have historically paid for labor, how journalists and their constituents have responded, and how the economy has changed over time. City Bureau will also share the universal (no negotiation) pay policy we created and the lessons we learned along the way. ", 
+        "description": "Who gets paid how much in our organizations? Are we able to explain why?\n\nThis session is designed to generate actionable steps newsrooms and journalists can take to establish more equitable pay policies within their organizations.\n\nWhile questions of compensation are universal to all workplaces, there are some unique aspects to newsrooms—especially the blurry line between the valuable labor of information gathering and analysis, and volunteerism in the name of citizenship, self-expression, and community representation.\n\nHow can journalism organizations translate the value they produce in the world to their compensation structure in ways that fair and equitable? When, how, and on what grounds can journalists challenge established pay practices? \n\nTo ground us, we'll briefly review, with examples, how journalism organizations have historically paid for labor, how journalists and their constituents have responded, and how the economy has changed over time. City Bureau will also share the universal (no negotiation) pay policy we created and the lessons we learned along the way.", 
         "facilitator": "Harry Backlund", 
         "facilitator_twitter": "hdbacklund", 
         "id": "strategies-equitable-pay", 
+        "talk": "", 
         "title": "Strategies for equitable pay in journalism organizations"
     }, 
     {
@@ -201,24 +230,12 @@
         "cofacilitator_twitter": "mikegrantme", 
         "cofacilitator_two": "Seema Yasmin", 
         "cofacilitator_two_twitter": "DoctorYasmin", 
-        "description": "Journalists of color deal with micro and macroaggressions in the newsroom and in the field on a daily basis. It gets in the way of our work, affects output, creativity, mental health and physical wellbeing. Seema Yasmin, a reporter, and Michael Grant, a designer, have created the Toolkit for Journalists of Color, an innovative card deck to help journaists of color. \n\nFrom quickfire, in-the-moment responses to everyday racism, to deliberative exercises that help you build community and recruit allies in the newsroom, the Toolkit for Journalists of Color is part of a Survival Kit which includes a second card deck, designed by Jennifer Dargan, to help white journalists be actively anti-racist.\n\nThe card decks have been created with the help of journalists throughout the US who have contributed their experiences of working in predominantly white newsrooms. Thank you for trusting us with your stories. Now come explore the Kit with us, engage in conversation, share solutions, and build community.\n", 
+        "description": "Journalists of color deal with micro and macroaggressions in the newsroom and in the field on a daily basis. It gets in the way of our work, affects output, creativity, mental health and physical wellbeing. Seema Yasmin, a reporter, and Michael Grant, a designer, have created the Toolkit for Journalists of Color, an innovative card deck to help journaists of color. \n\nFrom quickfire, in-the-moment responses to everyday racism, to deliberative exercises that help you build community and recruit allies in the newsroom, the Toolkit for Journalists of Color is part of a Survival Kit which includes a second card deck, designed by Jennifer Dargan, to help white journalists be actively anti-racist.\n\nThe card decks have been created with the help of journalists throughout the US who have contributed their experiences of working in predominantly white newsrooms. Thank you for trusting us with your stories. Now come explore the Kit with us, engage in conversation, share solutions, and build community.", 
         "facilitator": "Jennifer Dargan", 
         "facilitator_twitter": "jenniferdargan", 
         "id": "survival-kit-journalists-of-color", 
+        "talk": "", 
         "title": "Survival Kit for Journalists of Color"
-    }, 
-    {
-        "cofacilitator": "Joe Amditis", 
-        "cofacilitator_three": "", 
-        "cofacilitator_three_twitter": "", 
-        "cofacilitator_twitter": "jsamditis", 
-        "cofacilitator_two": "", 
-        "cofacilitator_two_twitter": "", 
-        "description": "Despite it's role in democracy, journalism's institutions are far from democratic. As a result, journalism's potential to enliven democracy at a time when it's needed most is stunted.\n\nJoin a conversation where we'll define what we mean by \"democracy\" and examine journalism's role within it as well as the role it plays in cultivating it (or not). We'll work together to identify democratic alternatives to common undemocratic practices in newsrooms. We'll run the gamut between individual and organizational practices and participants will leave the session with ways to cultivate more democracy in their daily journalism practice.", 
-        "facilitator": "Simon Galperin", 
-        "facilitator_twitter": "thensim0nsaid", 
-        "id": "anti-democratic-practices", 
-        "title": "Taking on journalism's anti-democratic practices"
     }, 
     {
         "cofacilitator": "", 
@@ -227,10 +244,11 @@
         "cofacilitator_twitter": "", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "Even if you keep the same job title, that role is going to change over time. Ever-evolving newsrooms present opportunities. You might jump at a chance for a promotion or just end up taking on different responsibilities as needed. Let's discuss what work we should take on enthusiastically, what work we should be wary of and how to negotiate the terms of a changing job. \n\nWe'll focus on the practical. In this session, we'll co-write guides to help work through these questions. Managers and non-managers alike: let's talk about how to have productive conversations that ensure the newsroom is supported and the employees thrive. ", 
+        "description": "Even if you keep the same job title, that role is going to change over time. Ever-evolving newsrooms present opportunities. You might jump at a chance for a promotion or just end up taking on different responsibilities as needed. Let's discuss what work we should take on enthusiastically, what work we should be wary of and how to negotiate the terms of a changing job. \n\nWe'll focus on the practical. In this session, we'll co-write guides to help work through these questions. Managers and non-managers alike: let's talk about how to have productive conversations that ensure the newsroom is supported and the employees thrive.", 
         "facilitator": "Julia Wolfe", 
         "facilitator_twitter": "juruwolfe", 
         "id": "not-my-job-yet", 
+        "talk": "", 
         "title": "That's not my job ... yet"
     }, 
     {
@@ -244,6 +262,7 @@
         "facilitator": "Soo Oh", 
         "facilitator_twitter": "SooOh", 
         "id": "career-matrix", 
+        "talk": "", 
         "title": "The (Career) Matrix"
     }, 
     {
@@ -253,10 +272,11 @@
         "cofacilitator_twitter": "andreawenzel", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "The idea of “news consumers” is outdated – it frames people as having value only if they generate revenue, and creates power imbalances where the public are passive recipients of the news. When we reframe communities as being constituents for journalism, however, it holds up journalism as a public service, one that is accountable to the public, prioritizes transformational relationships over transactional interactions, and gives communities agency to shape local news.\n\nWhether it’s during the news gathering process or when designing an engagement or collaborative project, sharing power with the community is key. Participants at this session will learn how to build accountable and trustworthy relationships that are mutually beneficial to both the public and local media. We’ll share examples and strategies on how projects in North Carolina, New Jersey, Philadelphia, and rural Kentucky put community, not the newsroom, at the center of the work. Participants will walk away with an action plan on how to implement several strategies on how to pair trustworthy reporting with trust-building practices, including outreach and organizing, community-engaged research processes, and how to design inclusive, people-led projects.", 
+        "description": "The idea of “news consumers” is outdated – it frames people as having value only if they generate revenue, and creates power imbalances where the public are passive recipients of the news. When we reframe communities as being constituents for journalism, however, it holds up journalism as a public service, one that is accountable to the public, prioritizes transformational relationships over transactional interactions, and gives communities agency to shape local news. \n\nWhether it’s during the news gathering process or when designing an engagement or collaborative project, sharing power with the community is key. Participants at this session will learn how to build accountable and trustworthy relationships that are mutually beneficial to both the public and local media. We’ll share examples and strategies on how projects in North Carolina, New Jersey, Philadelphia, and rural Kentucky put community, not the newsroom, at the center of the work. Participants will walk away with an action plan on how to implement several strategies on how to pair trustworthy reporting with trust-building practices, including outreach and organizing, community-engaged research processes, and how to design inclusive, people-led projects.", 
         "facilitator": "Mike Rispoli", 
         "facilitator_twitter": "rispolimike", 
         "id": "news-consumers-constituents", 
+        "talk": "", 
         "title": "Turning news consumers into constituents for journalism"
     }, 
     {
@@ -270,6 +290,7 @@
         "facilitator": "Geoff Hing", 
         "facilitator_twitter": "geoffhing", 
         "id": "when-you-lose-energy", 
+        "talk": "", 
         "title": "What to do when you lose (energy)"
     }, 
     {
@@ -283,6 +304,7 @@
         "facilitator": "Lisa Waananen Jones", 
         "facilitator_twitter": "lisawaananen", 
         "id": "rethinking-messages", 
+        "talk": "", 
         "title": "Why not add Puerto Rico to the standard U.S. map? Rethinking the messages in our templates and defaults"
     }, 
     {
@@ -292,10 +314,11 @@
         "cofacilitator_twitter": "", 
         "cofacilitator_two": "", 
         "cofacilitator_two_twitter": "", 
-        "description": "85-90% of news imagery is made by men. This single data point has tremendous implications with how we have been trained as an audience to see 'the other' or those that don't identify in the same ways we do. This session will walk you through the origins the visual language, show examples of how we've been primed to devalue the lives of brown and black people and how by simply being aware of this dynamic, you can help correct the imbalance. ", 
+        "description": "85-90% of news imagery is made by men. This single data point has tremendous implications with how we have been trained as an audience to see 'the other' or those that don't identify in the same ways we do. This session will walk you through the origins the visual language, show examples of how we've been primed to devalue the lives of brown and black people and how by simply being aware of this dynamic, you can help correct the imbalance.", 
         "facilitator": "Kainaz Amaria", 
         "facilitator_twitter": "kainazamaria", 
         "id": "visual-representation", 
+        "talk": "", 
         "title": "Why visual representation in journalism matters"
     }
 ]
