@@ -27,3 +27,8 @@ permalink: /sponsors/list/
     <h3>Snack sponsor</h3>
     <a href="http://jsk.stanford.edu/"><img src="/media/img/partners/jsk.png"></a>
 </div>
+
+<div class="sponsor-block secondary">
+    <h3>Sponsor SRCCON:POWER</h3>
+    <p>Sponsors help us make SRCCON:POWER unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON. <a href="/sponsors">Find out more about how you can help us make this event happen!</a></p>
+</div>
