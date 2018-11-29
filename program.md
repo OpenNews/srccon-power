@@ -15,26 +15,9 @@ SRCCON:POWER will explore how we as a community can make journalism more inclusi
 
 ## Schedule Overview
 
-Our schedule will include two types of sessions: [talks](#about-talks) that present research on power in newsrooms, communities, and tech; and participatory [sessions](#about-sessions) where small groups can dig deeper into those themes. We'll provide live transcription of the talks as they take place, and make sure breakout sessions are a space for more private conversations.
+Our full [schedule is now online](/schedule)!
 
-We'll publish our official schedule soon, but the overall days will be shaped approximately like this:
-
-**Thursday, Dec. 13**
-
-* **8am:** Registration and breakfast
-* **9am:** Welcome
-* **9:30am-12:30pm:** Talks, sessions & breaks
-* **12:30-2pm:** Lunch at SRCCON:POWER
-* **2-6pm:** Talks, sessions & breaks
-* **Evening:** Small group dinners in Philly
-
-**Friday, Dec. 14**
-
-* **8:30am:** Breakfast
-* **9:30am-1pm:** Talks, sessions & breaks
-* **1-2:30pm:** Lunch at SRCCON:POWER
-* **2-5pm:** Talks, sessions & breaks
-* **5pm:** Closing
+Our schedule will include two types of sessions: [talks](#about-talks) that present research on power in newsrooms, communities, and tech; and participatory [sessions](#about-sessions) where small groups can dig deeper into those themes. We’ll provide live transcription of the talks as they take place, and make sure breakout sessions are a space for more private conversations.
 
 ## A Schedule That Respects Community
 
