@@ -480,6 +480,10 @@ h3.slider-control {
     background-color: WhiteSmoke;
 }
 
+.highlight {
+    background-color: PowderBlue;
+}
+
 .session-ghost {
     opacity: .4;
 }
