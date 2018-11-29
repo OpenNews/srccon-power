@@ -303,7 +303,7 @@ footer #footer-details .page-container {
     text-align: center;
 }
 .sponsor-list img {
-    width: 100%;
+    width: 83%;
 }
 .sponsor-list .narrow-logo {
     padding-left: 25px;
@@ -314,7 +314,7 @@ footer #footer-details .page-container {
 }
 .sponsor-list {
     display: grid;
-    grid-template-columns: 200px 200px 150px 200px;
+    grid-template-columns: 300px 300px;
 }
 
 footer #footer-details,
@@ -528,7 +528,7 @@ table a.session-transcript {
     }
     .sponsor-list {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
     .sponsor-list .narrow-logo {
         padding-left: 0;
