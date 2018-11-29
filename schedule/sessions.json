@@ -272,6 +272,22 @@
         "transcription": "y"
     }, 
     {
+        "day": "Thursday", 
+        "description": "We’ll make reservations for small-group dinners around the city for Thursday evening meals together. Lots more information about this program and signups on our [SRCCON:POWER dinner page](https://power.srccon.org/dinner)!", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-dinner", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "7:30pm", 
+        "timeblock": "thursday-evening", 
+        "title": "Small-group dinners around the city—sign up!", 
+        "transcription": ""
+    }, 
+    {
         "day": "Friday", 
         "description": "Let's eat together as a group. Meals are provided when you attend SRCCON:POWER, and our local caterer will have tasty options for all dietary needs.", 
         "everyone": "y", 

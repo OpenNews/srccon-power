@@ -3,7 +3,7 @@ layout: layout
 section: logistics
 photocredit: Ben Grey
 photocredit_url: https://www.flickr.com/photos/ben_grey/5875235043/asdfasdflk
-permalink: /logistics/dinner/
+permalink: /dinner/
 ---
 
 # Thursday Night Dinner
@@ -28,7 +28,7 @@ We will post a sign-up spreadsheet. All you'll need to do is find a dinner with 
 
 ## Can I go to a restaurant not on the list?
 
-Your time is your own, but these reservations will be the only ones that OpenNews are covering. If you'd like to organize other dinners or events for the rest of SRCCON:POWER, you can [share ideas on this etherpad](https://etherpad.opennews.org/p/SRCCONPOWER2018)
+Your time is your own, but these reservations will be the only ones that OpenNews are covering. If you'd like to organize other dinners or events for the rest of SRCCON:POWER, you can [share ideas on this etherpad](https://etherpad.opennews.org/p/SRCCONPOWER2018).
 
 ## Can I bring a friend or partner to dinner?
 

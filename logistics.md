@@ -18,7 +18,7 @@ This page should cover all the logistical details you may need as you get ready 
 
 We’ve tried to think of everything you might need, from [hearty, tasty meals](#meals) to [childcare](#childcare). And you can [check out the full schedule](/schedule).
 
-When you arrive at the venue, we’ll have ample time for long hallway conversations and space to share things like job openings. We'll have a [Thursday evening plan for dinners](/logistics/dinner) out with fellow SRCCON:POWER attendees. We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
+When you arrive at the venue, we’ll have ample time for long hallway conversations and space to share things like job openings. We'll have a [Thursday evening plan for dinners](/dinner) out with fellow SRCCON:POWER attendees. We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
 
 Also, the entirety of SRCCON:POWER is covered by our [code of conduct](/conduct) and we've got a [support plan](/support) to back you up, too.
 
@@ -38,7 +38,7 @@ Have a room and looking for a roommate? Don’t have a room and looking for some
 
 ## Meals at SRCCON
 
-We want you to be happy and well-fed at SRCCON:POWER, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And we'll gather in small groups for [Thursday dinners](/logistics/dinner)!
+We want you to be happy and well-fed at SRCCON:POWER, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And we'll gather in small groups for [Thursday dinners](/dinner)!
 
 <span id="todo"></span>
 
