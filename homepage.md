@@ -7,7 +7,11 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-We're so excited to start sharing the program for SRCCON:POWER! We'll publish the official schedule soon, but you can jump right into [how the program will work](/program) and the [list of sessions](/sessions) coming to Philly.
+SRCCON:POWER is coming up December 13 & 14 in Philadelphia, at the [Science History Institute](https://www.sciencehistory.org). We'll have talks on power dynamics in journalism and tech as well as a slate of sessions digging into how we can make journalism more inclusive, representative, and responsive.
+
+**[The schedule is now live!](/schedule)**
+
+If you're preparing to attend, we have a bunch of details on the [logistics page](/logistics). We're also working on Q+As with each of our speakers for [Source](https://source.opennews.org), and will share those soon.
 
 Curious about how all this works? Learn more about [sessions](/sessions/about) and [participation](/participation) at SRCCON:POWER.
 

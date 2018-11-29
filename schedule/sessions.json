@@ -33,7 +33,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "", 
+        "description": "Sara Wachter-Boettcher, a product and content strategy consultant and the author of _Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech_, talks about the biases and blunders built into tech products (and ignored for too long in favor of enormous valuations and billionaire-making IPOs), and the frightening harms and unintended consequences we’re now seeing as a result. She’ll talk about the responsibility that those of us with the power to shape others’ perceptions of the world have to acknowledge just how wrong things have gone, and to turn a much more critical eye toward how technology is made, used, and talked about.", 
         "everyone": "y", 
         "facilitators": "Sara Wachter-Boettcher", 
         "facilitators_twitter": "sara_ann_marie", 
@@ -44,12 +44,12 @@
         "talk": "y", 
         "time": "9:30am", 
         "timeblock": "thursday-talks-1", 
-        "title": "SRCCON:POWER Talks: Sara Wachter-Boettcher", 
+        "title": "SRCCON:POWER Talks: Sara Wachter-Boettcher on tech, bias, and responsibility", 
         "transcription": "y"
     }, 
     {
         "day": "Thursday", 
-        "description": "", 
+        "description": "We're working to finalize I'Nasah's talk description and will update the site with it soon.", 
         "everyone": "y", 
         "facilitators": "I'Nasah Crockett", 
         "facilitators_twitter": "so_treu", 
@@ -60,7 +60,7 @@
         "talk": "y", 
         "time": "10:15am", 
         "timeblock": "thursday-talks-1", 
-        "title": "SRCCON:POWER Talks: I'Nasah Crockett", 
+        "title": "SRCCON:POWER Talks: I'Nasah Crockett on black women and representation in media", 
         "transcription": "y"
     }, 
     {
@@ -257,7 +257,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "", 
+        "description": "We're working to finalize Robert's talk description and will update the site with it soon.", 
         "everyone": "y", 
         "facilitators": "Robert Hernandez", 
         "facilitators_twitter": "webjournalist", 
@@ -268,7 +268,7 @@
         "talk": "y", 
         "time": "5:15pm", 
         "timeblock": "thursday-talks-2", 
-        "title": "SRCCON:POWER Talks: Robert Hernandez", 
+        "title": "SRCCON:POWER Talks: Robert Hernandez on the power you have right now", 
         "transcription": "y"
     }, 
     {
@@ -289,7 +289,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "", 
+        "description": "Britt Paris is an information and media studies scholar currently working with Data & Society Research Institute to investigate audiovisual fakes as a complex sociotechnical phenomenon. Two things from this research that are of consequence to storytellers and newsroom technologists are a rubric to better understand the nuances of how these fakes are produced and interpreted, and better naming conventions that communicate these nuances. I hope to engage attendees in a discussion about how they might give a more accurate account of the consequences of emerging technologies facilitating sophisticated audiovisual fakes, while finding a balance between successfully communicating inherent risks and recycling what might be overblown hype.", 
         "everyone": "y", 
         "facilitators": "Britt Paris", 
         "facilitators_twitter": "parisbrittany", 
@@ -300,7 +300,7 @@
         "talk": "y", 
         "time": "9:45am", 
         "timeblock": "friday-talks-1", 
-        "title": "SRCCON:POWER Talks: Britt Parris", 
+        "title": "SRCCON:POWER Talks: Britt Parris on media manipulation and the audiovisual fake", 
         "transcription": "y"
     }, 
     {
@@ -385,7 +385,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "", 
+        "description": "Rachel Schallom and Ben Mullin have been writing about the media industry for years and know the impact it can have on someone's career or a project's success. Having made plenty of mistakes themselves, they'll challenge each other on how power plays out in industry news and answer questions about how to get your staff and work better press coverage.", 
         "everyone": "y", 
         "facilitators": "Rachel Schallom, Ben Mullin", 
         "facilitators_twitter": "rschallom,benmullin", 
@@ -396,7 +396,7 @@
         "talk": "y", 
         "time": "1pm", 
         "timeblock": "friday-talks-2", 
-        "title": "SRCCON:POWER Talks: Rachel Schallom & Ben Mullins", 
+        "title": "SRCCON:POWER Talks: Rachel Schallom & Ben Mullins on how we cover ourselves", 
         "transcription": "y"
     }, 
     {
