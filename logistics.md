@@ -20,8 +20,6 @@ We’ve tried to think of everything you might need, from [hearty, tasty meals](
 
 When you arrive at the venue, we’ll have ample time for long hallway conversations and space to share things like job openings. We'll have a [Thursday evening plan for dinners](/dinner) out with fellow SRCCON:POWER attendees. We’ve also gathered details about a [local Alcoholics Anonymous meeting](#aa), and places nearby to make sure your [health needs](#health) are taken care of.
 
-Also, the entirety of SRCCON:POWER is covered by our [code of conduct](/conduct) and we've got a [support plan](/support) to back you up, too.
-
 <span id="lodging"></span>
 
 ## Hotel
