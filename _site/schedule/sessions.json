@@ -33,7 +33,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "", 
+        "description": "Sara Wachter-Boettcher, a product and content strategy consultant and the author of _Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech_, talks about the biases and blunders built into tech products (and ignored for too long in favor of enormous valuations and billionaire-making IPOs), and the frightening harms and unintended consequences we’re now seeing as a result. She’ll talk about the responsibility that those of us with the power to shape others’ perceptions of the world have to acknowledge just how wrong things have gone, and to turn a much more critical eye toward how technology is made, used, and talked about.", 
         "everyone": "y", 
         "facilitators": "Sara Wachter-Boettcher", 
         "facilitators_twitter": "sara_ann_marie", 
@@ -44,12 +44,12 @@
         "talk": "y", 
         "time": "9:30am", 
         "timeblock": "thursday-talks-1", 
-        "title": "SRCCON:POWER Talks: Sara Wachter-Boettcher", 
+        "title": "SRCCON:POWER Talks: Sara Wachter-Boettcher on tech, bias, and responsibility", 
         "transcription": "y"
     }, 
     {
         "day": "Thursday", 
-        "description": "", 
+        "description": "We're working to finalize I'Nasah's talk description and will update the site with it soon.", 
         "everyone": "y", 
         "facilitators": "I'Nasah Crockett", 
         "facilitators_twitter": "so_treu", 
@@ -60,7 +60,7 @@
         "talk": "y", 
         "time": "10:15am", 
         "timeblock": "thursday-talks-1", 
-        "title": "SRCCON:POWER Talks: I'Nasah Crockett", 
+        "title": "SRCCON:POWER Talks: I'Nasah Crockett on black women and representation in media", 
         "transcription": "y"
     }, 
     {
@@ -83,8 +83,8 @@
         "day": "Thursday", 
         "description": "After several weeks of Hurricane Maria news coverage last year, a poll found that only about half of Americans knew that Puerto Rico is part of the United States. Would that be different if news maps of the U.S. routinely showed Puerto Rico? What if election maps showed not just votes, but where people aren’t eligible to vote? We’ll take a look at examples of projects and redesigns that confront what we take for granted, and go through a few thought experiments to consider how small changes to templates, design defaults and data structures could improve newsrooms or better serve the public.", 
         "everyone": "", 
-        "facilitators": "Lisa Waananen Jones", 
-        "facilitators_twitter": "lisawaananen", 
+        "facilitators": "Lisa Waananen Jones, Brandyn Friedly", 
+        "facilitators_twitter": "lisawaananen, brandynfriedly", 
         "id": "rethinking-messages", 
         "length": "75 minutes", 
         "notepad": "y", 
@@ -99,8 +99,8 @@
         "day": "Thursday", 
         "description": "Power in the workplace is often dictated by the tools we’re given to complete our work--and those tools can take many forms and be of varying levels of quality. Let’s consider how power flows through the newsroom based on the tools we’re given, or not given access to. A tool could be the equipment or software we use, but a tool could also be data or physical space, or even access to people or places. How do each of us direct the flow of power in our newsrooms based on the tools we give each other access to? Whose power is at stake when we build our own tools? Further, what tools do we give our audience and what work are we trying to help them do?", 
         "everyone": "", 
-        "facilitators": "Sarah Schmalbach", 
-        "facilitators_twitter": "schmalie", 
+        "facilitators": "Sarah Schmalbach, Aron Pilhofer", 
+        "facilitators_twitter": "schmalie, pilhofer", 
         "id": "newsroom-tools-power", 
         "length": "75 minutes", 
         "notepad": "y", 
@@ -257,7 +257,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "", 
+        "description": "You don’t need to be hiring. You don’t need a budget. You don’t need to be the boss of a media organization. You just need to take advantage of the opportunities you have… now. Robert Hernandez, digital professor at USC Annenberg, will present on how each of us can have significant impact through small actions. Using his projects like #WJCHAT, JOVRNALISM, and many journalism boards, he’ll share the lessons he’s learned to create and harness our own power.", 
         "everyone": "y", 
         "facilitators": "Robert Hernandez", 
         "facilitators_twitter": "webjournalist", 
@@ -268,8 +268,24 @@
         "talk": "y", 
         "time": "5:15pm", 
         "timeblock": "thursday-talks-2", 
-        "title": "SRCCON:POWER Talks: Robert Hernandez", 
+        "title": "SRCCON:POWER Talks: Robert Hernandez on the power you have right now", 
         "transcription": "y"
+    }, 
+    {
+        "day": "Thursday", 
+        "description": "We’ll make reservations for small-group dinners around the city for Thursday evening meals together. Lots more information about this program and signups on our [SRCCON:POWER dinner page](https://power.srccon.org/dinner)!", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-dinner", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "7:30pm", 
+        "timeblock": "thursday-evening", 
+        "title": "Small-group dinners around the city", 
+        "transcription": ""
     }, 
     {
         "day": "Friday", 
@@ -289,7 +305,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "", 
+        "description": "Britt Paris is an information and media studies scholar currently working with Data & Society Research Institute to investigate audiovisual fakes as a complex sociotechnical phenomenon. Two things from this research that are of consequence to storytellers and newsroom technologists are a rubric to better understand the nuances of how these fakes are produced and interpreted, and better naming conventions that communicate these nuances. I hope to engage attendees in a discussion about how they might give a more accurate account of the consequences of emerging technologies facilitating sophisticated audiovisual fakes, while finding a balance between successfully communicating inherent risks and recycling what might be overblown hype.", 
         "everyone": "y", 
         "facilitators": "Britt Paris", 
         "facilitators_twitter": "parisbrittany", 
@@ -300,7 +316,7 @@
         "talk": "y", 
         "time": "9:45am", 
         "timeblock": "friday-talks-1", 
-        "title": "SRCCON:POWER Talks: Britt Parris", 
+        "title": "SRCCON:POWER Talks: Britt Parris on media manipulation and the audiovisual fake", 
         "transcription": "y"
     }, 
     {
@@ -321,18 +337,18 @@
     }, 
     {
         "day": "Friday", 
-        "description": "Funders wield immense power over the field of nonprofit journalism, from what they choose to value and support, to how they design their systems and processes.  If you have ever tried to figure out how to get your foot in the door with a funder, or spent countless hours on their application and months waiting for a decision, you already know it can be relentlessly discouraging to try to get your project or organization funded. And once you get funding, hanging onto it for more than a year or two seems like a never-ending battle.\n\nWhat should the ideal relationship look like between funders and organizations? Where do you have opportunities to shift the balance of power?\n\nIn this off-the-record session, we want to:\n* Offer a snapshot of how foundations are thinking and talking about supporting journalism today\n* Share Dos and Don’ts for building relationships with funders\n* Help you understand what program directors and officers at foundations do and do not have control over\n* Brainstorm ways that funders could share more power with grantees and applicants, and how we might put some of those ideas into practice\n\nWe also want to:\n* Give you a chance to discuss sticky situations with funders and workshop ways to fix them\n* Offer a safe space to ask questions you’ve been afraid to ask, or share funding-related frustrations you want to talk through\n\nWe are two people who are very familiar with being both the funder and the grantee, seeking to build bridges between the two and reduce the power imbalance. We hope to share general takeaways from this session with the philanthropic field.", 
+        "description": "Most professional development and connections in journalism revolve around journalism organizations and the conferences they throw. Your experience with those organizations is largely determined by the board of directors of those organizations, which, for the most part, tend to be homogeneous groups. I want to convince you why joining the boards of these organizations is a great idea and give you the inside details of what to expect and how to shape your organizations from the inside. The time is now to run and change these organizations for the better.", 
         "everyone": "", 
-        "facilitators": "Molly de Aguiar, Jessica Clark", 
-        "facilitators_twitter": "mollydeaguiar, beyondbroadcast", 
-        "id": "funders", 
+        "facilitators": "Steven Rich", 
+        "facilitators_twitter": "dataeditor", 
+        "id": "run-for-boards", 
         "length": "75 minutes", 
         "notepad": "y", 
         "room": "Franklin 1", 
         "talk": "", 
         "time": "10:45am", 
         "timeblock": "friday-sessions-1", 
-        "title": "Funders: Can’t live with ’em. Can’t live without ’em! ", 
+        "title": "Run for the board", 
         "transcription": ""
     }, 
     {
@@ -385,7 +401,7 @@
     }, 
     {
         "day": "Friday", 
-        "description": "", 
+        "description": "Rachel Schallom and Ben Mullin have been writing about the media industry for years and know the impact it can have on someone's career or a project's success. Having made plenty of mistakes themselves, they'll challenge each other on how power plays out in industry news and answer questions about how to get your staff and work better press coverage.", 
         "everyone": "y", 
         "facilitators": "Rachel Schallom, Ben Mullin", 
         "facilitators_twitter": "rschallom,benmullin", 
@@ -396,7 +412,7 @@
         "talk": "y", 
         "time": "1pm", 
         "timeblock": "friday-talks-2", 
-        "title": "SRCCON:POWER Talks: Rachel Schallom & Ben Mullins", 
+        "title": "SRCCON:POWER Talks: Rachel Schallom & Ben Mullins on how we cover ourselves", 
         "transcription": "y"
     }, 
     {
@@ -481,18 +497,18 @@
     }, 
     {
         "day": "Friday", 
-        "description": "Most professional development and connections in journalism revolve around journalism organizations and the conferences they throw. Your experience with those organizations is largely determined by the board of directors of those organizations, which, for the most part, tend to be homogeneous groups. I want to convince you why joining the boards of these organizations is a great idea and give you the inside details of what to expect and how to shape your organizations from the inside. The time is now to run and change these organizations for the better.", 
+        "description": "Funders wield immense power over the field of nonprofit journalism, from what they choose to value and support, to how they design their systems and processes.  If you have ever tried to figure out how to get your foot in the door with a funder, or spent countless hours on their application and months waiting for a decision, you already know it can be relentlessly discouraging to try to get your project or organization funded. And once you get funding, hanging onto it for more than a year or two seems like a never-ending battle.\n\nWhat should the ideal relationship look like between funders and organizations? Where do you have opportunities to shift the balance of power?\n\nIn this off-the-record session, we want to:\n* Offer a snapshot of how foundations are thinking and talking about supporting journalism today\n* Share Dos and Don’ts for building relationships with funders\n* Help you understand what program directors and officers at foundations do and do not have control over\n* Brainstorm ways that funders could share more power with grantees and applicants, and how we might put some of those ideas into practice\n\nWe also want to:\n* Give you a chance to discuss sticky situations with funders and workshop ways to fix them\n* Offer a safe space to ask questions you’ve been afraid to ask, or share funding-related frustrations you want to talk through\n\nWe are two people who are very familiar with being both the funder and the grantee, seeking to build bridges between the two and reduce the power imbalance. We hope to share general takeaways from this session with the philanthropic field.", 
         "everyone": "", 
-        "facilitators": "Steven Rich", 
-        "facilitators_twitter": "dataeditor", 
-        "id": "run-for-boards", 
+        "facilitators": "Molly de Aguiar, Jessica Clark", 
+        "facilitators_twitter": "mollydeaguiar, beyondbroadcast", 
+        "id": "funders", 
         "length": "75 minutes", 
         "notepad": "y", 
         "room": "Franklin 1", 
         "talk": "", 
         "time": "3:45pm", 
         "timeblock": "friday-sessions-3", 
-        "title": "Run for the board", 
+        "title": "Funders: Can’t live with ’em. Can’t live without ’em! ", 
         "transcription": ""
     }, 
     {
