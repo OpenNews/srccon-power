@@ -17,7 +17,7 @@ SRCCON:POWER will explore how we as a community can make journalism more inclusi
 
 Our full [schedule is now online](/schedule)!
 
-Our schedule will include two types of sessions: [talks](#about-talks) that present research on power in newsrooms, communities, and tech; and participatory [sessions](#about-sessions) where small groups can dig deeper into those themes. We’ll provide live transcription of the talks as they take place, and make sure breakout sessions are a space for more private conversations.
+Our schedule will include two types of sessions: [talks](#about-talks) that present research on power in newsrooms, communities, and tech; and participatory [sessions](#about-sessions) where small groups can dig deeper into those themes. We’ll provide [live transcription](/transcription) of the talks as they take place, and make sure breakout sessions are a space for more private conversations.
 
 ## A Schedule That Respects Community
 
@@ -31,7 +31,7 @@ We want SRCCON:POWER to feel less like a small conference and more like a big co
 
 ## About Our Talks
 
-Talks will open both our days at SRCCON:POWER, bring us back from lunch, and send us off to dinner on Thursday night. SRCCON events are all about participation and conversation, and these are no different—we'll get a chance to hear about research into the way power operates in our work, then follow up with time for Q&A. We've asked speakers to challenge us, because solutions to systemic problems won't come from the ways we've approached journalism in the past.
+Talks will open both our days at SRCCON:POWER, send us off to dinner on Thursday night, and bring us back from lunch Friday. SRCCON events are all about participation and conversation, and these are no different—we'll get a chance to hear about research into the way power operates in our work, then follow up with time for Q&A. We've asked speakers to challenge us, because solutions to systemic problems won't come from the ways we've approached journalism in the past.
 
 Our speakers at SRCCON:POWER will include:
 
@@ -40,6 +40,8 @@ Our speakers at SRCCON:POWER will include:
 * Brittany Paris ([@parisbrittany](https://twitter.com/@parisbrittany))
 * Rachel Schallom ([@rschallom](https://twitter.com/@rschallom)) and Ben Mullin ([@benmullin](https://twitter.com/@benmullin))
 * Sara Wachter-Boettcher ([@sara_ann_marie](https://twitter.com/sara_ann_marie))
+
+We'll share [live transcripts](/transcription) of each talk as it takes place.
 
 <span id="about-sessions"></span>
 
