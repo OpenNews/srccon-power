@@ -46,6 +46,6 @@ Reservations are mostly under the name “Erik Westra” Check the field in the 
 
 ## How do I get to the restaurant?
 
-The address of each restaurant is in the spreadsheet, along with suggested ways to get there. Check the [SRCCON:POWER website](https://work.srccon.org/logistics) for information on public transit, cabs, etc.
+The address of each restaurant is in the spreadsheet, along with suggested ways to get there. Check the [SRCCON:POWER website](https://power.srccon.org/logistics) for information on public transit, cabs, etc.
 
 Thanks again to [AdaCamp for this resource](https://adacamp.org/adacamp-toolkit/group-dinners/), which was adapted under a Creative Commons Attribution-ShareAlike 4.0 International License.
