@@ -14,7 +14,7 @@ So what's this all about? We made reservations at restaurants around town, with 
 
 ## What time does dinner start?
 
-All reservations start at 7:30pm and should finish around 9-10pm. Please aim to be 15 minutes early; most restaurants will not seat the party until everyone has arrived, and may cancel the reservation if not everyone has arrived by 15 – 30 minutes past the reservation time.
+All reservations start at 7:30pm and should finish around 9-10pm. Please aim to be 15 minutes early; most restaurants will not seat the party until everyone has arrived, and may cancel the reservation if not everyone has arrived by 15-30 minutes past the reservation time.
 
 ## Who is paying for dinner?
 
@@ -28,7 +28,7 @@ Look at the [sign-up sheet](https://docs.google.com/spreadsheets/d/1G-u8Yd4SwQ2Y
 
 ## Can I go to a restaurant not on the list?
 
-Your time is your own, but these reservations will be the only ones that OpenNews are covering. If you'd like to organize other dinners or events for the rest of SRCCON:POWER, you can [share ideas on this etherpad](https://etherpad.opennews.org/p/SRCCONPOWER2018).
+Your time is your own, but these reservations will be the only ones that OpenNews is covering. If you'd like to organize other dinners or events for the rest of SRCCON:POWER, you can [share ideas on this etherpad](https://etherpad.opennews.org/p/SRCCONPOWER2018).
 
 ## Can I bring a friend or partner to dinner?
 
@@ -44,7 +44,7 @@ Please choose a dinner with more slots or [let us know](mailto:erika@opennews.or
 
 ## When I arrive at the restaurant, what reservation do I ask for?
 
-Reservations are mostly under the name “Erik Westra” Check the field in the dinner document to confirm yours.
+Reservations are mostly under the name “Erik Westra.” Check the field in the dinner document to confirm yours.
 
 ## How do I get to the restaurant?
 
