@@ -10,6 +10,14 @@ permalink: /logistics/
 
 SRCCON:POWER takes place Dec. 13-14 at the [Science History Institute](https://www.sciencehistory.org/), a museum and event space in the Old City neighborhood of Philadelphia.
 
+## Getting to the venue
+
+Our venue, the Science History Institute is at [315 Chestnut St](https://goo.gl/maps/8UEjyuupfN92). If you’re coming from the Wyndham Philadelphia, go south on N 4th St and hang a left (east) on Chestnut, we’ll be on your left [about half a block over](https://www.google.com/maps/dir/Wyndham+Philadelphia+Historic+District,+400+Arch+St,+Philadelphia,+PA+19106/chemical+heritage+foundation/@39.9505279,-75.1485967,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c6c88421a9f379:0xce18bea485fd9b80!2m2!1d-75.1471664!2d39.9518924!1m5!1m1!1s0x89c6c884f0010fd7:0x9fdd2fbe5d2744d3!2m2!1d-75.146443!2d39.949024!3e2). If you’re coming on the blue (Market-Frankford) line, you’ll want the 2nd St Station, go one block south to Chestnut and a block and a half west (a smidge past 3rd).
+
+### Accessibility
+
+The wheelchair-accessible pedestrian gate is available at the parking-lot entrance on 3rd Street between Chestnut and Market Streets. The pedestrian gate will be unlocked. If you’re traveling by car, drive up to the parking-lot gate, which will open automatically during regular business hours and events. You may park in any open spot marked “Visitor” or in one of two spots reserved for those with disabilities. To enter the building, call our receptionist via the intercom at the East Entrance for visitors and staff. You’ll go down the main hall to get to the registration desk.
+
 ## Getting ready for SRCCON:POWER
 
 This page should cover all the logistical details you may need as you get ready for SRCCON:POWER. If you’re still looking to make lodging arrangements, we’ve got a [nearby hotel block](#lodging) and a [roomshare list](https://etherpad.opennews.org/p/srcconpowerRoomShare2018). For getting to the venue, you can also check out [transit details](#transit). You can also [let other attendees know](https://etherpad.opennews.org/p/SRCCONPOWER2018) about any games you might bring to play, or make plans for Friday night.
