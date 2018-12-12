@@ -8,6 +8,8 @@ permalink: /conduct/
 
 ## Code of Conduct
 
+<p class="safety"><b>SRCCON SAFETY HELPLINE:</b> Members of the conference team will be available via voice or text at <b>(612) 584-1131</b>, or by email at <b><a href="mailto:srccon@opennews.org">srccon@opennews.org</a></b>.</p>
+
 SRCCON:POWER and OpenNews are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We’ve written this code of conduct not because we expect bad behavior from our community—which, in our experience, is overwhelmingly kind and civil—but because we believe a clear code of conduct is one necessary part of building a respectful community space.
 
 SRCCON:POWER participants agree to:
@@ -23,3 +25,5 @@ Our code of conduct covers the entirety of our time together for SRCCON:POWER, i
 During SRCCON:POWER, we will publicize a contact email and phone number, in addition to pointing out the staff in matching T-shirts so you know who to contact if you see or experience an issue. We welcome your feedback on this and every other aspect of SRCCON:POWER, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
 <small>Above text is licensed CC BY-SA 4.0. Credit to <a href="http://citizencodeofconduct.org/">Citizen Code of Conduct</a>, <a href="https://www.djangoproject.com/conduct/">the Django Project’s code of conduct</a> and <a href="http://theorizingtheweb.tumblr.com/post/79357700249/anti-harassment-statement">Theorizing the Web code of conduct</a> from which we’ve extensively borrowed, with general thanks to <a href="https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/">the Ada Initiative’s &ldquo;how to design a code of conduct for your community.&rdquo;</a></small>
+
+In addition to this code of conduct, we also have a [care and support](/support/) page with dteails about how we can care for one another.
