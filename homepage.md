@@ -7,11 +7,13 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-SRCCON:POWER Attendees, welcome to Philly!
+# Thank you SRCCON:POWER attendees!
 
-We are so glad to have you here with us. If you need logistics info, [we have you covered](/logistics) and of course the handy, mobile-friendly [schedule app](http://schedule.power.srccon.org) is available for all your session planning needs. The registration desk in the lobby will be staffed throughout the event, and our safety and support helpline is **(612) 584-1131**.
+We're so grateful for getting to spend two days with all of you, digging into the hard work of changing power dynamics and accountability in journalism and tech.
 
-If you’re not here with us in Philly, we invite you to check out our [**remote-participation options**](/transcription).
+If you’d like to revisit our series of talks, check out our [talk transcriptions](/documentation/#transcripts). We’ll publish session write-ups and takeaways [over on Source](https://source.opennews.org/articles/tags/srcconpower) during the next few months, and [our documentation page](/documentation/#session-notes--resources) is already collecting a fantastic list of notes and other resources from SRCCON:POWER session facilitators.
+
+**Coming up:** And if you're already looking forward to SRCCON 2019 (next July 11 & 12 in Minneapolis!), stay in touch with [@SRCCON](https://twitter.com/srccon) or by [joining our mailing list](http://eepurl.com/czSVTL).
 
 ## When & Where
 
