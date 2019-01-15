@@ -41,6 +41,7 @@ All sessions at SRCCON:POWER have a collaborative etherpad that facilitators and
 * ["Funders: Can’t live with ’em. Can’t live without ’em!" session notes](https://etherpad.opennews.org/p/SRCCON2018-funders)
 * ["Historical legacies of resistance in journalism" session notes](https://etherpad.opennews.org/p/SRCCON2018-legacies-resistance)
 * ["Influence versus authority: wielding power at all levels of an organization" slides](https://docs.google.com/presentation/d/1buvRyWCRgCJXTnQ9iYgQy_tHEQF8QrXsJyGqF5sLhC8/edit#slide=id.p)
+* ["Is this what democracy looks like? Meeting democratic challenges with collective solutions" session writeup: "5 ways to make your workplace more democratic"](https://medium.com/@simongalp/5-ways-to-make-your-workplace-more-democratic-730aa1fdc87f)
 * ["Is this what democracy looks like? Meeting democratic challenges with collective solutions" session notes](https://etherpad.opennews.org/p/SRCCON2018-meeting-democratic-challenges)
 * ["Is this what democracy looks like? Meeting democratic challenges with collective solutions" slides](https://docs.google.com/presentation/d/1HKuojK5a3hYM34xYLknvymBSGlbxK2tfnSViT0NXo4w/edit#slide=id.g49e02677f0_2_0)
 * ["Is this what democracy looks like? Meeting democratic challenges with collective solutions" reading list](http://bit.ly/srcconbooks)
