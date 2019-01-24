@@ -53,6 +53,7 @@ All sessions at SRCCON:POWER have a collaborative etherpad that facilitators and
 * ["Power to the People—of Color" slides](https://docs.google.com/presentation/d/1waXYN7b1vE4ylnwia6sU4ICwaNzghs9ho5JDkbW9ZbU/edit#slide=id.g35f391192_00)
 * ["Survival Kit for Journalists of Color & Anti-Racism Self-Work for White Journalists" session notes](https://etherpad.opennews.org/p/SRCCON2018-survival-kit-journalists-of-color)
 * ["Survival Kit for Journalists of Color & Anti-Racism Self-Work for White Journalists" project overview](https://www.poynter.org/newsletters/2018/a-survival-kit-for-journalists-of-color/)
+* ["That’s not my job … yet" session writeup on Source: "What to Do When Your Work Isn’t Your Job"](https://source.opennews.org/articles/what-do-when-your-work-isnt-your-job/)
 * ["That’s not my job … yet" session notes](https://etherpad.opennews.org/p/SRCCON2018-not-my-job-yet)
 * ["Turning news consumers into constituents for journalism" session notes](https://etherpad.opennews.org/p/SRCCON2018-news-consumers-constituents)
 * ["Turning news consumers into constituents for journalism" slides](https://docs.google.com/presentation/d/1HcrjWUeRZcfA8yE5PUhzU7jdceFqC5K3q1J8OFks-lM/edit#slide=id.g3a5f7cb001_1_6)
