@@ -38,6 +38,7 @@ Our captioner provided live transcription of all our talks at SRCCON:POWER. Thos
 
 All sessions at SRCCON:POWER have a collaborative etherpad that facilitators and attendees can use to share links and capture notes on discussions as they take place. Each entry on [our schedule](/schedule) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
 
+* ["Funders: Can’t live with ’em. Can’t live without ’em!" writeup: "Things We Don’t Talk About (But Should): An Open Letter to Media Funders"](https://medium.com/@MollydeAguiar/things-we-dont-talk-about-but-should-an-open-letter-to-media-funders-74bb6d9c58e)
 * ["Funders: Can’t live with ’em. Can’t live without ’em!" session notes](https://etherpad.opennews.org/p/SRCCON2018-funders)
 * ["Historical legacies of resistance in journalism" session notes](https://etherpad.opennews.org/p/SRCCON2018-legacies-resistance)
 * ["Influence versus authority: wielding power at all levels of an organization" slides](https://docs.google.com/presentation/d/1buvRyWCRgCJXTnQ9iYgQy_tHEQF8QrXsJyGqF5sLhC8/edit#slide=id.p)
